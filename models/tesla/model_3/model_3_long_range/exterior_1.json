@@ -1,15 +1,15 @@
 {
   "FileName": null,
-  "RepoPath": "models\\tesla\\model_3\\model_3_long_range\\exterior_1.jpg",
-  "CloudPath": "models/tesla/model_3/model_3_long_range/exterior_1.jpg",
-  "ExternalUrl": "https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/exterior_1.jpg",
+  "RepoPath": "models\\tesla\\model_3\\model_3_long_range\\exterior_1.jpeg",
+  "CloudPath": "models/tesla/model_3/model_3_long_range/exterior_1.jpeg",
+  "ExternalUrl": "https://media.evkx.net/multimedia/models/tesla/model_3/model_3_long_range/exterior_1.jpeg",
   "Width": 3000,
-  "Height": 2100,
+  "Height": 2250,
   "HasXSmallThumb": true,
   "HasSmallThumb": true,
   "HasMediumThumb": true,
-  "Hash": "4A8JFyCvBZkTTTuUkTtqlA==",
+  "Hash": "GnnWfY5IydZtUpxMUMVAow==",
   "Tags": null,
-  "Size": 965674,
+  "Size": 1319331,
   "Description": null
 }
