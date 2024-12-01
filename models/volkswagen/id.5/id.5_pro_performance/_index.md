@@ -1,10 +1,5 @@
 ## models\volkswagen\id.5\id.5_pro_performance
 <style>
-    body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-    }
     .image-gallery {
         display: flex;
         flex-wrap: wrap;

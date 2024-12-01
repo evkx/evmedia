@@ -1,10 +1,5 @@
 ## models\audi\a6_e-tron\a6_sportback_e-tron
 <style>
-    body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-    }
     .image-gallery {
         display: flex;
         flex-wrap: wrap;

@@ -1,10 +1,5 @@
 ## models\bmw\i5\i5_edrive40_touring
 <style>
-    body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-    }
     .image-gallery {
         display: flex;
         flex-wrap: wrap;

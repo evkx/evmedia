@@ -1,10 +1,5 @@
 ## guides\evreviewers
 <style>
-    body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-    }
     .image-gallery {
         display: flex;
         flex-wrap: wrap;

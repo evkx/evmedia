@@ -1,10 +1,5 @@
 ## models\volvo\ec40\ec40_single_motor_er
 <style>
-    body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-    }
     .image-gallery {
         display: flex;
         flex-wrap: wrap;

@@ -1,10 +1,5 @@
 ## models\genesis\gv70\electrified_gv70
 <style>
-    body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-    }
     .image-gallery {
         display: flex;
         flex-wrap: wrap;

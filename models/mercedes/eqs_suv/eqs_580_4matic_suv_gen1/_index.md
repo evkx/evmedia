@@ -1,10 +1,5 @@
 ## models\mercedes\eqs_suv\eqs_580_4matic_suv_gen1
 <style>
-    body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-    }
     .image-gallery {
         display: flex;
         flex-wrap: wrap;

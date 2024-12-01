@@ -1,10 +1,5 @@
 ## models\rivian\r1\r1t_performance_dual-motor_awd_mp
 <style>
-    body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-    }
     .image-gallery {
         display: flex;
         flex-wrap: wrap;

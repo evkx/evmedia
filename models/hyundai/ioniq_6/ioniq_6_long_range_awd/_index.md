@@ -1,10 +1,5 @@
 ## models\hyundai\ioniq_6\ioniq_6_long_range_awd
 <style>
-    body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-    }
     .image-gallery {
         display: flex;
         flex-wrap: wrap;

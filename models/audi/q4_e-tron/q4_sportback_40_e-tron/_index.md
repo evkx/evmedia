@@ -1,10 +1,5 @@
 ## models\audi\q4_e-tron\q4_sportback_40_e-tron
 <style>
-    body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-    }
     .image-gallery {
         display: flex;
         flex-wrap: wrap;

@@ -1,10 +1,5 @@
 ## models\renault\5\5_e-tech_52kwh_150hp
 <style>
-    body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-    }
     .image-gallery {
         display: flex;
         flex-wrap: wrap;

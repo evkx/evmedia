@@ -1,10 +1,5 @@
 ## models\porsche\taycan\taycan_gts_sport_turismo
 <style>
-    body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-    }
     .image-gallery {
         display: flex;
         flex-wrap: wrap;

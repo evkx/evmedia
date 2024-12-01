@@ -1,10 +1,5 @@
 ## models\bmw\i4\i4_edrive35
 <style>
-    body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-    }
     .image-gallery {
         display: flex;
         flex-wrap: wrap;

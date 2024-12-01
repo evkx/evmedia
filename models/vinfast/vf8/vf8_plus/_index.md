@@ -1,10 +1,5 @@
 ## models\vinfast\vf8\vf8_plus
 <style>
-    body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-    }
     .image-gallery {
         display: flex;
         flex-wrap: wrap;

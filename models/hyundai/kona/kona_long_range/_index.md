@@ -1,10 +1,5 @@
 ## models\hyundai\kona\kona_long_range
 <style>
-    body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-    }
     .image-gallery {
         display: flex;
         flex-wrap: wrap;

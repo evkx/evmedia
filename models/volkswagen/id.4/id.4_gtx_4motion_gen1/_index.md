@@ -1,10 +1,5 @@
 ## models\volkswagen\id.4\id.4_gtx_4motion_gen1
 <style>
-    body {
-        font-family: Arial, sans-serif;
-        margin: 0;
-        padding: 0;
-    }
     .image-gallery {
         display: flex;
         flex-wrap: wrap;
