@@ -1,38 +1,38 @@
 <h1 style ="text-align: center;"> Image Overview </h1>
 <div>
-<div>
+<div style="width="20%">
 <img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/charging_1_xst.jpg" alt="Image 1" style="width: 200px;">
 <p>charging_1.jpg</p>
 </div>
-<div>
+<div style="width="20%">
 <img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/doors_1_xst.jpg" alt="Image 1" style="width: 200px;">
 <p>doors_1.jpg</p>
 </div>
-<div>
+<div style="width="20%">
 <img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/exterior_1_xst.jpg" alt="Image 1" style="width: 200px;">
 <p>exterior_1.jpg</p>
 </div>
-<div>
+<div style="width="20%">
 <img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/exterior_2_xst.jpg" alt="Image 1" style="width: 200px;">
 <p>exterior_2.jpg</p>
 </div>
-<div>
+<div style="width="20%">
 <img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/exterior_3_xst.png" alt="Image 1" style="width: 200px;">
 <p>exterior_3.png</p>
 </div>
-<div>
+<div style="width="20%">
 <img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/interior_1_xst.jpg" alt="Image 1" style="width: 200px;">
 <p>interior_1.jpg</p>
 </div>
-<div>
+<div style="width="20%">
 <img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/main_1_xst.jpg" alt="Image 1" style="width: 200px;">
 <p>main_1.jpg</p>
 </div>
-<div>
+<div style="width="20%">
 <img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/roof_1_xst.jpg" alt="Image 1" style="width: 200px;">
 <p>roof_1.jpg</p>
 </div>
-<div>
+<div style="width="20%">
 <img src="https://media.evkx.net/multimedia/models/smart/hash1/hash1_pulse/screens_1_xst.jpg" alt="Image 1" style="width: 200px;">
 <p>screens_1.jpg</p>
 </div>
