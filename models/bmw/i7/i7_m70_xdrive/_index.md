@@ -24,6 +24,10 @@ exterior_5.jpg
 frontseats_1.jpg
 </div>
 <div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
+<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/frontseats_2_xst.jpg" class="img-thumbnail" alt="frontseats_2.jpg">
+frontseats_2.jpg
+</div>
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/headlights_1_xst.jpg" class="img-thumbnail" alt="headlights_1.jpg">
 headlights_1.jpg
 </div>
