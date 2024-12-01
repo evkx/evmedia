@@ -1,37 +1,74 @@
 ## technology\brakes
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/technology/brakes/blendedbrakesystem_xst.jpg" class="img-thumbnail" alt="blendedbrakesystem.jpg">
-blendedbrakesystem.jpg
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    .image-gallery {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+        padding: 10px;
+    }
+    .image-gallery img {
+        width: 300px;
+        height: auto;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+    }
+    .image-gallery div {
+        flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+        max-width: 300px;
+        text-align: center;
+    }
+    @media (max-width: 768px) {
+        .image-gallery div {
+            flex: 1 1 calc(50% - 20px); /* Two images per row on medium screens */
+        }
+    }
+    @media (max-width: 480px) {
+        .image-gallery div {
+            flex: 1 1 100%; /* One image per row on small screens */
+        }
+    }
+</style>
+<h1 style ="text-align: center;"> Image Overview </h1> <div class="image-gallery">
+<div>
+<img src="https://media.evkx.net/multimedia/technology/brakes/blendedbrakesystem_st.jpg">
+<p>blendedbrakesystem.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/technology/brakes/brakepads_1_xst.jpg" class="img-thumbnail" alt="brakepads_1.jpg">
-brakepads_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/technology/brakes/brakepads_1_st.jpg">
+<p>brakepads_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/technology/brakes/carbidetrongt_xst.jpg" class="img-thumbnail" alt="carbidetrongt.jpg">
-carbidetrongt.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/technology/brakes/carbidetrongt_st.jpg">
+<p>carbidetrongt.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/technology/brakes/ceramicetrongt_xst.jpg" class="img-thumbnail" alt="ceramicetrongt.jpg">
-ceramicetrongt.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/technology/brakes/ceramicetrongt_st.jpg">
+<p>ceramicetrongt.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/technology/brakes/discbrakes_1_xst.jpg" class="img-thumbnail" alt="discbrakes_1.jpg">
-discbrakes_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/technology/brakes/discbrakes_1_st.jpg">
+<p>discbrakes_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/technology/brakes/discbrakes_2_xst.jpg" class="img-thumbnail" alt="discbrakes_2.jpg">
-discbrakes_2.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/technology/brakes/discbrakes_2_st.jpg">
+<p>discbrakes_2.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/technology/brakes/discbrakes_3_xst.jpg" class="img-thumbnail" alt="discbrakes_3.jpg">
-discbrakes_3.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/technology/brakes/discbrakes_3_st.jpg">
+<p>discbrakes_3.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/technology/brakes/drumbrake_xst.jpg" class="img-thumbnail" alt="drumbrake.jpg">
-drumbrake.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/technology/brakes/drumbrake_st.jpg">
+<p>drumbrake.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/technology/brakes/steelbrakedisck_xst.jpg" class="img-thumbnail" alt="steelbrakedisck.jpg">
-steelbrakedisck.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/technology/brakes/steelbrakedisck_st.jpg">
+<p>steelbrakedisck.jpg</p>
+</div>
 </div>

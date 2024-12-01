@@ -1,105 +1,142 @@
 ## models\renault\megane\megane_e-tech_techno
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/charging_1_xst.jpeg" class="img-thumbnail" alt="charging_1.jpeg">
-charging_1.jpeg
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    .image-gallery {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+        padding: 10px;
+    }
+    .image-gallery img {
+        width: 300px;
+        height: auto;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+    }
+    .image-gallery div {
+        flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+        max-width: 300px;
+        text-align: center;
+    }
+    @media (max-width: 768px) {
+        .image-gallery div {
+            flex: 1 1 calc(50% - 20px); /* Two images per row on medium screens */
+        }
+    }
+    @media (max-width: 480px) {
+        .image-gallery div {
+            flex: 1 1 100%; /* One image per row on small screens */
+        }
+    }
+</style>
+<h1 style ="text-align: center;"> Image Overview </h1> <div class="image-gallery">
+<div>
+<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/charging_1_st.jpeg">
+<p>charging_1.jpeg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/exterior_1_xst.jpeg" class="img-thumbnail" alt="exterior_1.jpeg">
-exterior_1.jpeg
+<div>
+<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/exterior_1_st.jpeg">
+<p>exterior_1.jpeg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/exterior_2_xst.jpeg" class="img-thumbnail" alt="exterior_2.jpeg">
-exterior_2.jpeg
+<div>
+<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/exterior_2_st.jpeg">
+<p>exterior_2.jpeg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/exterior_3_xst.jpg" class="img-thumbnail" alt="exterior_3.jpg">
-exterior_3.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/exterior_3_st.jpg">
+<p>exterior_3.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/exterior_4_xst.jpeg" class="img-thumbnail" alt="exterior_4.jpeg">
-exterior_4.jpeg
+<div>
+<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/exterior_4_st.jpeg">
+<p>exterior_4.jpeg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/exterior_5_xst.jpeg" class="img-thumbnail" alt="exterior_5.jpeg">
-exterior_5.jpeg
+<div>
+<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/exterior_5_st.jpeg">
+<p>exterior_5.jpeg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/exterior_6_xst.jpeg" class="img-thumbnail" alt="exterior_6.jpeg">
-exterior_6.jpeg
+<div>
+<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/exterior_6_st.jpeg">
+<p>exterior_6.jpeg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/frontseats_1_xst.jpg" class="img-thumbnail" alt="frontseats_1.jpg">
-frontseats_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/frontseats_1_st.jpg">
+<p>frontseats_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/frontseats_2.jpg_xst.jpeg" class="img-thumbnail" alt="frontseats_2.jpg.jpeg">
-frontseats_2.jpg.jpeg
+<div>
+<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/frontseats_2.jpg_st.jpeg">
+<p>frontseats_2.jpg.jpeg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/headlights_1_xst.jpeg" class="img-thumbnail" alt="headlights_1.jpeg">
-headlights_1.jpeg
+<div>
+<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/headlights_1_st.jpeg">
+<p>headlights_1.jpeg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/interior_1_xst.jpeg" class="img-thumbnail" alt="interior_1.jpeg">
-interior_1.jpeg
+<div>
+<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/interior_1_st.jpeg">
+<p>interior_1.jpeg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/interior_2_xst.jpeg" class="img-thumbnail" alt="interior_2.jpeg">
-interior_2.jpeg
+<div>
+<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/interior_2_st.jpeg">
+<p>interior_2.jpeg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/interior_3_xst.jpeg" class="img-thumbnail" alt="interior_3.jpeg">
-interior_3.jpeg
+<div>
+<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/interior_3_st.jpeg">
+<p>interior_3.jpeg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/interior_4_xst.jpeg" class="img-thumbnail" alt="interior_4.jpeg">
-interior_4.jpeg
+<div>
+<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/interior_4_st.jpeg">
+<p>interior_4.jpeg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/interior_5_xst.jpeg" class="img-thumbnail" alt="interior_5.jpeg">
-interior_5.jpeg
+<div>
+<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/interior_5_st.jpeg">
+<p>interior_5.jpeg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/main_1_xst.jpeg" class="img-thumbnail" alt="main_1.jpeg">
-main_1.jpeg
+<div>
+<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/main_1_st.jpeg">
+<p>main_1.jpeg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/rearlights_1_xst.jpg" class="img-thumbnail" alt="rearlights_1.jpg">
-rearlights_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/rearlights_1_st.jpg">
+<p>rearlights_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/rearlights_2_xst.jpeg" class="img-thumbnail" alt="rearlights_2.jpeg">
-rearlights_2.jpeg
+<div>
+<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/rearlights_2_st.jpeg">
+<p>rearlights_2.jpeg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/screens_1_xst.jpeg" class="img-thumbnail" alt="screens_1.jpeg">
-screens_1.jpeg
+<div>
+<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/screens_1_st.jpeg">
+<p>screens_1.jpeg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/screens_2_xst.jpg" class="img-thumbnail" alt="screens_2.jpg">
-screens_2.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/screens_2_st.jpg">
+<p>screens_2.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/screens_3_xst.jpeg" class="img-thumbnail" alt="screens_3.jpeg">
-screens_3.jpeg
+<div>
+<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/screens_3_st.jpeg">
+<p>screens_3.jpeg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/secondrowseats_1_xst.jpeg" class="img-thumbnail" alt="secondrowseats_1.jpeg">
-secondrowseats_1.jpeg
+<div>
+<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/secondrowseats_1_st.jpeg">
+<p>secondrowseats_1.jpeg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/soundsystem_1_xst.jpeg" class="img-thumbnail" alt="soundsystem_1.jpeg">
-soundsystem_1.jpeg
+<div>
+<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/soundsystem_1_st.jpeg">
+<p>soundsystem_1.jpeg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/trunk_1_xst.jpg" class="img-thumbnail" alt="trunk_1.jpg">
-trunk_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/trunk_1_st.jpg">
+<p>trunk_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/trunk_2_xst.jpeg" class="img-thumbnail" alt="trunk_2.jpeg">
-trunk_2.jpeg
+<div>
+<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/trunk_2_st.jpeg">
+<p>trunk_2.jpeg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/trunk_3_xst.jpeg" class="img-thumbnail" alt="trunk_3.jpeg">
-trunk_3.jpeg
+<div>
+<img src="https://media.evkx.net/multimedia/models/renault/megane/megane_e-tech_techno/trunk_3_st.jpeg">
+<p>trunk_3.jpeg</p>
+</div>
 </div>

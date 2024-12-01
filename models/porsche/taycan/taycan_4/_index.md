@@ -1,33 +1,70 @@
 ## models\porsche\taycan\taycan_4
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4/chargeport_1_xst.jpg" class="img-thumbnail" alt="chargeport_1.jpg">
-chargeport_1.jpg
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    .image-gallery {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+        padding: 10px;
+    }
+    .image-gallery img {
+        width: 300px;
+        height: auto;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+    }
+    .image-gallery div {
+        flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+        max-width: 300px;
+        text-align: center;
+    }
+    @media (max-width: 768px) {
+        .image-gallery div {
+            flex: 1 1 calc(50% - 20px); /* Two images per row on medium screens */
+        }
+    }
+    @media (max-width: 480px) {
+        .image-gallery div {
+            flex: 1 1 100%; /* One image per row on small screens */
+        }
+    }
+</style>
+<h1 style ="text-align: center;"> Image Overview </h1> <div class="image-gallery">
+<div>
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4/chargeport_1_st.jpg">
+<p>chargeport_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4/details_1_xst.jpg" class="img-thumbnail" alt="details_1.jpg">
-details_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4/details_1_st.jpg">
+<p>details_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4/details_2_xst.jpg" class="img-thumbnail" alt="details_2.jpg">
-details_2.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4/details_2_st.jpg">
+<p>details_2.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4/exterior_1_xst.jpg" class="img-thumbnail" alt="exterior_1.jpg">
-exterior_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4/exterior_1_st.jpg">
+<p>exterior_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4/exterior_2_xst.jpg" class="img-thumbnail" alt="exterior_2.jpg">
-exterior_2.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4/exterior_2_st.jpg">
+<p>exterior_2.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4/exterior_3_xst.jpg" class="img-thumbnail" alt="exterior_3.jpg">
-exterior_3.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4/exterior_3_st.jpg">
+<p>exterior_3.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4/main_1_xst.jpg" class="img-thumbnail" alt="main_1.jpg">
-main_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4/main_1_st.jpg">
+<p>main_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4/wheels_1_xst.jpg" class="img-thumbnail" alt="wheels_1.jpg">
-wheels_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_4/wheels_1_st.jpg">
+<p>wheels_1.jpg</p>
+</div>
 </div>

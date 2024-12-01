@@ -1,37 +1,74 @@
 ## models\rivian\r1\r1s_quad-motor_awd
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/charging_1_xst.jpg" class="img-thumbnail" alt="charging_1.jpg">
-charging_1.jpg
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    .image-gallery {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+        padding: 10px;
+    }
+    .image-gallery img {
+        width: 300px;
+        height: auto;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+    }
+    .image-gallery div {
+        flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+        max-width: 300px;
+        text-align: center;
+    }
+    @media (max-width: 768px) {
+        .image-gallery div {
+            flex: 1 1 calc(50% - 20px); /* Two images per row on medium screens */
+        }
+    }
+    @media (max-width: 480px) {
+        .image-gallery div {
+            flex: 1 1 100%; /* One image per row on small screens */
+        }
+    }
+</style>
+<h1 style ="text-align: center;"> Image Overview </h1> <div class="image-gallery">
+<div>
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/charging_1_st.jpg">
+<p>charging_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/charging_2_xst.jpg" class="img-thumbnail" alt="charging_2.jpg">
-charging_2.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/charging_2_st.jpg">
+<p>charging_2.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/exterior_1_xst.jpg" class="img-thumbnail" alt="exterior_1.jpg">
-exterior_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/exterior_1_st.jpg">
+<p>exterior_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/exterior_2_xst.jpg" class="img-thumbnail" alt="exterior_2.jpg">
-exterior_2.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/exterior_2_st.jpg">
+<p>exterior_2.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/frunk_1_xst.jpg" class="img-thumbnail" alt="frunk_1.jpg">
-frunk_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/frunk_1_st.jpg">
+<p>frunk_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/main_1_xst.jpg" class="img-thumbnail" alt="main_1.jpg">
-main_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/main_1_st.jpg">
+<p>main_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/screens_1_xst.jpg" class="img-thumbnail" alt="screens_1.jpg">
-screens_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/screens_1_st.jpg">
+<p>screens_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/screens_2_xst.jpg" class="img-thumbnail" alt="screens_2.jpg">
-screens_2.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/screens_2_st.jpg">
+<p>screens_2.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/trunk_1_xst.jpg" class="img-thumbnail" alt="trunk_1.jpg">
-trunk_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/rivian/r1/r1s_quad-motor_awd/trunk_1_st.jpg">
+<p>trunk_1.jpg</p>
+</div>
 </div>

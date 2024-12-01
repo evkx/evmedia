@@ -1,17 +1,54 @@
 ## technology\userinterface\stalks
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/technology/userinterface/stalks/audicruisecontrol_xst.jpg" class="img-thumbnail" alt="audicruisecontrol.jpg">
-audicruisecontrol.jpg
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    .image-gallery {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+        padding: 10px;
+    }
+    .image-gallery img {
+        width: 300px;
+        height: auto;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+    }
+    .image-gallery div {
+        flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+        max-width: 300px;
+        text-align: center;
+    }
+    @media (max-width: 768px) {
+        .image-gallery div {
+            flex: 1 1 calc(50% - 20px); /* Two images per row on medium screens */
+        }
+    }
+    @media (max-width: 480px) {
+        .image-gallery div {
+            flex: 1 1 100%; /* One image per row on small screens */
+        }
+    }
+</style>
+<h1 style ="text-align: center;"> Image Overview </h1> <div class="image-gallery">
+<div>
+<img src="https://media.evkx.net/multimedia/technology/userinterface/stalks/audicruisecontrol_st.jpg">
+<p>audicruisecontrol.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/technology/userinterface/stalks/blazergearstalk_1_xst.jpg" class="img-thumbnail" alt="blazergearstalk_1.jpg">
-blazergearstalk_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/technology/userinterface/stalks/blazergearstalk_1_st.jpg">
+<p>blazergearstalk_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/technology/userinterface/stalks/stalkless_1_xst.jpg" class="img-thumbnail" alt="stalkless_1.jpg">
-stalkless_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/technology/userinterface/stalks/stalkless_1_st.jpg">
+<p>stalkless_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/technology/userinterface/stalks/stalks_1_xst.jpg" class="img-thumbnail" alt="stalks_1.jpg">
-stalks_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/technology/userinterface/stalks/stalks_1_st.jpg">
+<p>stalks_1.jpg</p>
+</div>
 </div>

@@ -1,109 +1,146 @@
 ## models\chevrolet\blazer_ev\blazer_ev_ss
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/chargeport_1_xst.jpg" class="img-thumbnail" alt="chargeport_1.jpg">
-chargeport_1.jpg
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    .image-gallery {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+        padding: 10px;
+    }
+    .image-gallery img {
+        width: 300px;
+        height: auto;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+    }
+    .image-gallery div {
+        flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+        max-width: 300px;
+        text-align: center;
+    }
+    @media (max-width: 768px) {
+        .image-gallery div {
+            flex: 1 1 calc(50% - 20px); /* Two images per row on medium screens */
+        }
+    }
+    @media (max-width: 480px) {
+        .image-gallery div {
+            flex: 1 1 100%; /* One image per row on small screens */
+        }
+    }
+</style>
+<h1 style ="text-align: center;"> Image Overview </h1> <div class="image-gallery">
+<div>
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/chargeport_1_st.jpg">
+<p>chargeport_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/exterior_1_xst.jpg" class="img-thumbnail" alt="exterior_1.jpg">
-exterior_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/exterior_1_st.jpg">
+<p>exterior_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/exterior_2_xst.jpg" class="img-thumbnail" alt="exterior_2.jpg">
-exterior_2.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/exterior_2_st.jpg">
+<p>exterior_2.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/exterior_3_xst.jpg" class="img-thumbnail" alt="exterior_3.jpg">
-exterior_3.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/exterior_3_st.jpg">
+<p>exterior_3.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/exterior_4_xst.jpg" class="img-thumbnail" alt="exterior_4.jpg">
-exterior_4.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/exterior_4_st.jpg">
+<p>exterior_4.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/exterior_5_xst.jpg" class="img-thumbnail" alt="exterior_5.jpg">
-exterior_5.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/exterior_5_st.jpg">
+<p>exterior_5.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/exterior_6_xst.jpg" class="img-thumbnail" alt="exterior_6.jpg">
-exterior_6.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/exterior_6_st.jpg">
+<p>exterior_6.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/frontseats_1_xst.jpg" class="img-thumbnail" alt="frontseats_1.jpg">
-frontseats_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/frontseats_1_st.jpg">
+<p>frontseats_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/handle_1_xst.jpg" class="img-thumbnail" alt="handle_1.jpg">
-handle_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/handle_1_st.jpg">
+<p>handle_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/headlights_1_xst.jpg" class="img-thumbnail" alt="headlights_1.jpg">
-headlights_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/headlights_1_st.jpg">
+<p>headlights_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/headlights_2_xst.jpg" class="img-thumbnail" alt="headlights_2.jpg">
-headlights_2.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/headlights_2_st.jpg">
+<p>headlights_2.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/interior_1_xst.jpg" class="img-thumbnail" alt="interior_1.jpg">
-interior_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/interior_1_st.jpg">
+<p>interior_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/interior_2_xst.jpg" class="img-thumbnail" alt="interior_2.jpg">
-interior_2.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/interior_2_st.jpg">
+<p>interior_2.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/interior_3_xst.jpg" class="img-thumbnail" alt="interior_3.jpg">
-interior_3.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/interior_3_st.jpg">
+<p>interior_3.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/interior_4_xst.jpg" class="img-thumbnail" alt="interior_4.jpg">
-interior_4.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/interior_4_st.jpg">
+<p>interior_4.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/interior_5_xst.jpg" class="img-thumbnail" alt="interior_5.jpg">
-interior_5.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/interior_5_st.jpg">
+<p>interior_5.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/interior_6_xst.jpg" class="img-thumbnail" alt="interior_6.jpg">
-interior_6.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/interior_6_st.jpg">
+<p>interior_6.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/main_1_xst.jpg" class="img-thumbnail" alt="main_1.jpg">
-main_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/main_1_st.jpg">
+<p>main_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/mirror_1_xst.jpg" class="img-thumbnail" alt="mirror_1.jpg">
-mirror_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/mirror_1_st.jpg">
+<p>mirror_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/mirror_2_xst.jpg" class="img-thumbnail" alt="mirror_2.jpg">
-mirror_2.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/mirror_2_st.jpg">
+<p>mirror_2.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/regenpaddles_1_xst.jpg" class="img-thumbnail" alt="regenpaddles_1.jpg">
-regenpaddles_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/regenpaddles_1_st.jpg">
+<p>regenpaddles_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/roof_1_xst.jpg" class="img-thumbnail" alt="roof_1.jpg">
-roof_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/roof_1_st.jpg">
+<p>roof_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/screens_1_xst.jpg" class="img-thumbnail" alt="screens_1.jpg">
-screens_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/screens_1_st.jpg">
+<p>screens_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/screens_2_xst.jpg" class="img-thumbnail" alt="screens_2.jpg">
-screens_2.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/screens_2_st.jpg">
+<p>screens_2.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/screens_3_xst.jpg" class="img-thumbnail" alt="screens_3.jpg">
-screens_3.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/screens_3_st.jpg">
+<p>screens_3.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/trunk_1_xst.jpg" class="img-thumbnail" alt="trunk_1.jpg">
-trunk_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/trunk_1_st.jpg">
+<p>trunk_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/vents_1_xst.jpg" class="img-thumbnail" alt="vents_1.jpg">
-vents_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/vents_1_st.jpg">
+<p>vents_1.jpg</p>
+</div>
 </div>

@@ -1,65 +1,102 @@
 ## models\porsche\macan\macan
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/porsche/macan/macan/chargeport_1_xst.jpg" class="img-thumbnail" alt="chargeport_1.jpg">
-chargeport_1.jpg
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    .image-gallery {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+        padding: 10px;
+    }
+    .image-gallery img {
+        width: 300px;
+        height: auto;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+    }
+    .image-gallery div {
+        flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+        max-width: 300px;
+        text-align: center;
+    }
+    @media (max-width: 768px) {
+        .image-gallery div {
+            flex: 1 1 calc(50% - 20px); /* Two images per row on medium screens */
+        }
+    }
+    @media (max-width: 480px) {
+        .image-gallery div {
+            flex: 1 1 100%; /* One image per row on small screens */
+        }
+    }
+</style>
+<h1 style ="text-align: center;"> Image Overview </h1> <div class="image-gallery">
+<div>
+<img src="https://media.evkx.net/multimedia/models/porsche/macan/macan/chargeport_1_st.jpg">
+<p>chargeport_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/porsche/macan/macan/details_1_xst.jpg" class="img-thumbnail" alt="details_1.jpg">
-details_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/porsche/macan/macan/details_1_st.jpg">
+<p>details_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/porsche/macan/macan/details_2_xst.jpg" class="img-thumbnail" alt="details_2.jpg">
-details_2.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/porsche/macan/macan/details_2_st.jpg">
+<p>details_2.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/porsche/macan/macan/details_3_xst.jpg" class="img-thumbnail" alt="details_3.jpg">
-details_3.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/porsche/macan/macan/details_3_st.jpg">
+<p>details_3.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/porsche/macan/macan/exterior_1_xst.jpeg" class="img-thumbnail" alt="exterior_1.jpeg">
-exterior_1.jpeg
+<div>
+<img src="https://media.evkx.net/multimedia/models/porsche/macan/macan/exterior_1_st.jpeg">
+<p>exterior_1.jpeg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/porsche/macan/macan/exterior_2_xst.jpeg" class="img-thumbnail" alt="exterior_2.jpeg">
-exterior_2.jpeg
+<div>
+<img src="https://media.evkx.net/multimedia/models/porsche/macan/macan/exterior_2_st.jpeg">
+<p>exterior_2.jpeg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/porsche/macan/macan/exterior_3_xst.jpeg" class="img-thumbnail" alt="exterior_3.jpeg">
-exterior_3.jpeg
+<div>
+<img src="https://media.evkx.net/multimedia/models/porsche/macan/macan/exterior_3_st.jpeg">
+<p>exterior_3.jpeg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/porsche/macan/macan/exterior_4_xst.jpeg" class="img-thumbnail" alt="exterior_4.jpeg">
-exterior_4.jpeg
+<div>
+<img src="https://media.evkx.net/multimedia/models/porsche/macan/macan/exterior_4_st.jpeg">
+<p>exterior_4.jpeg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/porsche/macan/macan/exterior_5_xst.jpeg" class="img-thumbnail" alt="exterior_5.jpeg">
-exterior_5.jpeg
+<div>
+<img src="https://media.evkx.net/multimedia/models/porsche/macan/macan/exterior_5_st.jpeg">
+<p>exterior_5.jpeg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/porsche/macan/macan/exterior_6_xst.jpeg" class="img-thumbnail" alt="exterior_6.jpeg">
-exterior_6.jpeg
+<div>
+<img src="https://media.evkx.net/multimedia/models/porsche/macan/macan/exterior_6_st.jpeg">
+<p>exterior_6.jpeg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/porsche/macan/macan/exterior_7_xst.jpeg" class="img-thumbnail" alt="exterior_7.jpeg">
-exterior_7.jpeg
+<div>
+<img src="https://media.evkx.net/multimedia/models/porsche/macan/macan/exterior_7_st.jpeg">
+<p>exterior_7.jpeg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/porsche/macan/macan/exterior_8_xst.jpeg" class="img-thumbnail" alt="exterior_8.jpeg">
-exterior_8.jpeg
+<div>
+<img src="https://media.evkx.net/multimedia/models/porsche/macan/macan/exterior_8_st.jpeg">
+<p>exterior_8.jpeg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/porsche/macan/macan/interior_1_xst.jpeg" class="img-thumbnail" alt="interior_1.jpeg">
-interior_1.jpeg
+<div>
+<img src="https://media.evkx.net/multimedia/models/porsche/macan/macan/interior_1_st.jpeg">
+<p>interior_1.jpeg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/porsche/macan/macan/main_1_xst.jpeg" class="img-thumbnail" alt="main_1.jpeg">
-main_1.jpeg
+<div>
+<img src="https://media.evkx.net/multimedia/models/porsche/macan/macan/main_1_st.jpeg">
+<p>main_1.jpeg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/porsche/macan/macan/screens_1_xst.jpeg" class="img-thumbnail" alt="screens_1.jpeg">
-screens_1.jpeg
+<div>
+<img src="https://media.evkx.net/multimedia/models/porsche/macan/macan/screens_1_st.jpeg">
+<p>screens_1.jpeg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/porsche/macan/macan/trunk_1_xst.jpg" class="img-thumbnail" alt="trunk_1.jpg">
-trunk_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/porsche/macan/macan/trunk_1_st.jpg">
+<p>trunk_1.jpg</p>
+</div>
 </div>

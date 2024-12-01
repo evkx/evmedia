@@ -1,237 +1,274 @@
 ## models\zeekr\7x\7x_standard_range_rwd
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/airbags_1_xst.jpg" class="img-thumbnail" alt="airbags_1.jpg">
-airbags_1.jpg
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    .image-gallery {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+        padding: 10px;
+    }
+    .image-gallery img {
+        width: 300px;
+        height: auto;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+    }
+    .image-gallery div {
+        flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+        max-width: 300px;
+        text-align: center;
+    }
+    @media (max-width: 768px) {
+        .image-gallery div {
+            flex: 1 1 calc(50% - 20px); /* Two images per row on medium screens */
+        }
+    }
+    @media (max-width: 480px) {
+        .image-gallery div {
+            flex: 1 1 100%; /* One image per row on small screens */
+        }
+    }
+</style>
+<h1 style ="text-align: center;"> Image Overview </h1> <div class="image-gallery">
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/airbags_1_st.jpg">
+<p>airbags_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/battery_1_xst.jpg" class="img-thumbnail" alt="battery_1.jpg">
-battery_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/battery_1_st.jpg">
+<p>battery_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/body_1_xst.jpg" class="img-thumbnail" alt="body_1.jpg">
-body_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/body_1_st.jpg">
+<p>body_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/camera_1_xst.jpg" class="img-thumbnail" alt="camera_1.jpg">
-camera_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/camera_1_st.jpg">
+<p>camera_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/details_1_xst.jpg" class="img-thumbnail" alt="details_1.jpg">
-details_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/details_1_st.jpg">
+<p>details_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/doors_1_xst.jpg" class="img-thumbnail" alt="doors_1.jpg">
-doors_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/doors_1_st.jpg">
+<p>doors_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_1_xst.jpg" class="img-thumbnail" alt="exterior_1.jpg">
-exterior_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_1_st.jpg">
+<p>exterior_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_10_xst.JPG" class="img-thumbnail" alt="exterior_10.JPG">
-exterior_10.JPG
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_10_st.JPG">
+<p>exterior_10.JPG</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_11_xst.jpg" class="img-thumbnail" alt="exterior_11.jpg">
-exterior_11.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_11_st.jpg">
+<p>exterior_11.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_12_xst.jpg" class="img-thumbnail" alt="exterior_12.jpg">
-exterior_12.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_12_st.jpg">
+<p>exterior_12.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_13_xst.jpg" class="img-thumbnail" alt="exterior_13.jpg">
-exterior_13.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_13_st.jpg">
+<p>exterior_13.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_14_xst.jpg" class="img-thumbnail" alt="exterior_14.jpg">
-exterior_14.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_14_st.jpg">
+<p>exterior_14.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_15_xst.jpg" class="img-thumbnail" alt="exterior_15.jpg">
-exterior_15.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_15_st.jpg">
+<p>exterior_15.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_16_xst.jpg" class="img-thumbnail" alt="exterior_16.jpg">
-exterior_16.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_16_st.jpg">
+<p>exterior_16.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_17_xst.jpg" class="img-thumbnail" alt="exterior_17.jpg">
-exterior_17.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_17_st.jpg">
+<p>exterior_17.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_2_xst.jpg" class="img-thumbnail" alt="exterior_2.jpg">
-exterior_2.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_2_st.jpg">
+<p>exterior_2.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_3_xst.jpg" class="img-thumbnail" alt="exterior_3.jpg">
-exterior_3.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_3_st.jpg">
+<p>exterior_3.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_4_xst.jpg" class="img-thumbnail" alt="exterior_4.jpg">
-exterior_4.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_4_st.jpg">
+<p>exterior_4.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_5_xst.jpg" class="img-thumbnail" alt="exterior_5.jpg">
-exterior_5.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_5_st.jpg">
+<p>exterior_5.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_6_xst.jpg" class="img-thumbnail" alt="exterior_6.jpg">
-exterior_6.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_6_st.jpg">
+<p>exterior_6.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_7_xst.jpg" class="img-thumbnail" alt="exterior_7.jpg">
-exterior_7.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_7_st.jpg">
+<p>exterior_7.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_8_xst.jpg" class="img-thumbnail" alt="exterior_8.jpg">
-exterior_8.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_8_st.jpg">
+<p>exterior_8.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_9_xst.jpg" class="img-thumbnail" alt="exterior_9.jpg">
-exterior_9.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_9_st.jpg">
+<p>exterior_9.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/fridge_1_xst.jpg" class="img-thumbnail" alt="fridge_1.jpg">
-fridge_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/fridge_1_st.jpg">
+<p>fridge_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/frontseats_1_xst.jpg" class="img-thumbnail" alt="frontseats_1.jpg">
-frontseats_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/frontseats_1_st.jpg">
+<p>frontseats_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/frunk_1_xst.jpg" class="img-thumbnail" alt="frunk_1.jpg">
-frunk_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/frunk_1_st.jpg">
+<p>frunk_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/headlights_1_xst.jpg" class="img-thumbnail" alt="headlights_1.jpg">
-headlights_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/headlights_1_st.jpg">
+<p>headlights_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/headup_1_xst.jpg" class="img-thumbnail" alt="headup_1.jpg">
-headup_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/headup_1_st.jpg">
+<p>headup_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/interior_1_xst.jpg" class="img-thumbnail" alt="interior_1.jpg">
-interior_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/interior_1_st.jpg">
+<p>interior_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/interior_2_xst.jpg" class="img-thumbnail" alt="interior_2.jpg">
-interior_2.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/interior_2_st.jpg">
+<p>interior_2.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/interior_3_xst.png" class="img-thumbnail" alt="interior_3.png">
-interior_3.png
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/interior_3_st.png">
+<p>interior_3.png</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/interior_4_xst.jpg" class="img-thumbnail" alt="interior_4.jpg">
-interior_4.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/interior_4_st.jpg">
+<p>interior_4.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/interior_5_xst.jpg" class="img-thumbnail" alt="interior_5.jpg">
-interior_5.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/interior_5_st.jpg">
+<p>interior_5.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/interior_6_xst.jpg" class="img-thumbnail" alt="interior_6.jpg">
-interior_6.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/interior_6_st.jpg">
+<p>interior_6.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/interior_7_xst.jpg" class="img-thumbnail" alt="interior_7.jpg">
-interior_7.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/interior_7_st.jpg">
+<p>interior_7.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/interior_8_xst.jpg" class="img-thumbnail" alt="interior_8.jpg">
-interior_8.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/interior_8_st.jpg">
+<p>interior_8.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/interior_9_xst.jpg" class="img-thumbnail" alt="interior_9.jpg">
-interior_9.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/interior_9_st.jpg">
+<p>interior_9.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/main_1_xst.jpg" class="img-thumbnail" alt="main_1.jpg">
-main_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/main_1_st.jpg">
+<p>main_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/rearlights_1_xst.jpg" class="img-thumbnail" alt="rearlights_1.jpg">
-rearlights_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/rearlights_1_st.jpg">
+<p>rearlights_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/roof_1_xst.jpg" class="img-thumbnail" alt="roof_1.jpg">
-roof_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/roof_1_st.jpg">
+<p>roof_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/roof_2_xst.jpg" class="img-thumbnail" alt="roof_2.jpg">
-roof_2.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/roof_2_st.jpg">
+<p>roof_2.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/screens_1_xst.jpg" class="img-thumbnail" alt="screens_1.jpg">
-screens_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/screens_1_st.jpg">
+<p>screens_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/screens_2_xst.jpg" class="img-thumbnail" alt="screens_2.jpg">
-screens_2.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/screens_2_st.jpg">
+<p>screens_2.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/screens_3_xst.jpg" class="img-thumbnail" alt="screens_3.jpg">
-screens_3.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/screens_3_st.jpg">
+<p>screens_3.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/screens_4_xst.jpg" class="img-thumbnail" alt="screens_4.jpg">
-screens_4.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/screens_4_st.jpg">
+<p>screens_4.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/screens_5_xst.jpg" class="img-thumbnail" alt="screens_5.jpg">
-screens_5.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/screens_5_st.jpg">
+<p>screens_5.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/screens_6_xst.jpg" class="img-thumbnail" alt="screens_6.jpg">
-screens_6.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/screens_6_st.jpg">
+<p>screens_6.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/secondrowseats_1_xst.jpg" class="img-thumbnail" alt="secondrowseats_1.jpg">
-secondrowseats_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/secondrowseats_1_st.jpg">
+<p>secondrowseats_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/secondrowseats_2_xst.jpg" class="img-thumbnail" alt="secondrowseats_2.jpg">
-secondrowseats_2.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/secondrowseats_2_st.jpg">
+<p>secondrowseats_2.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/secondrowseats_3_xst.jpg" class="img-thumbnail" alt="secondrowseats_3.jpg">
-secondrowseats_3.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/secondrowseats_3_st.jpg">
+<p>secondrowseats_3.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/secondrowseats_4_xst.jpg" class="img-thumbnail" alt="secondrowseats_4.jpg">
-secondrowseats_4.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/secondrowseats_4_st.jpg">
+<p>secondrowseats_4.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/secondrowseats_5_xst.jpg" class="img-thumbnail" alt="secondrowseats_5.jpg">
-secondrowseats_5.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/secondrowseats_5_st.jpg">
+<p>secondrowseats_5.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/storage_1_xst.jpg" class="img-thumbnail" alt="storage_1.jpg">
-storage_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/storage_1_st.jpg">
+<p>storage_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/storage_2_xst.jpg" class="img-thumbnail" alt="storage_2.jpg">
-storage_2.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/storage_2_st.jpg">
+<p>storage_2.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/storage_3_xst.jpg" class="img-thumbnail" alt="storage_3.jpg">
-storage_3.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/storage_3_st.jpg">
+<p>storage_3.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/storage_4_xst.jpg" class="img-thumbnail" alt="storage_4.jpg">
-storage_4.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/storage_4_st.jpg">
+<p>storage_4.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/trunk_1_xst.jpg" class="img-thumbnail" alt="trunk_1.jpg">
-trunk_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/trunk_1_st.jpg">
+<p>trunk_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/trunk_2_xst.jpg" class="img-thumbnail" alt="trunk_2.jpg">
-trunk_2.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/trunk_2_st.jpg">
+<p>trunk_2.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/wheels_1_xst.jpg" class="img-thumbnail" alt="wheels_1.jpg">
-wheels_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/wheels_1_st.jpg">
+<p>wheels_1.jpg</p>
+</div>
 </div>

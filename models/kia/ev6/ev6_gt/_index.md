@@ -1,105 +1,142 @@
 ## models\kia\ev6\ev6_gt
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/charging_1_xst.jpg" class="img-thumbnail" alt="charging_1.jpg">
-charging_1.jpg
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    .image-gallery {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+        padding: 10px;
+    }
+    .image-gallery img {
+        width: 300px;
+        height: auto;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+    }
+    .image-gallery div {
+        flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+        max-width: 300px;
+        text-align: center;
+    }
+    @media (max-width: 768px) {
+        .image-gallery div {
+            flex: 1 1 calc(50% - 20px); /* Two images per row on medium screens */
+        }
+    }
+    @media (max-width: 480px) {
+        .image-gallery div {
+            flex: 1 1 100%; /* One image per row on small screens */
+        }
+    }
+</style>
+<h1 style ="text-align: center;"> Image Overview </h1> <div class="image-gallery">
+<div>
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/charging_1_st.jpg">
+<p>charging_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/charging_2_xst.jpg" class="img-thumbnail" alt="charging_2.jpg">
-charging_2.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/charging_2_st.jpg">
+<p>charging_2.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/charging_3_xst.jpg" class="img-thumbnail" alt="charging_3.jpg">
-charging_3.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/charging_3_st.jpg">
+<p>charging_3.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/climatecontrol_1_xst.jpg" class="img-thumbnail" alt="climatecontrol_1.jpg">
-climatecontrol_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/climatecontrol_1_st.jpg">
+<p>climatecontrol_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/exterior_1_xst.jpg" class="img-thumbnail" alt="exterior_1.jpg">
-exterior_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/exterior_1_st.jpg">
+<p>exterior_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/exterior_2_xst.jpg" class="img-thumbnail" alt="exterior_2.jpg">
-exterior_2.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/exterior_2_st.jpg">
+<p>exterior_2.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/exterior_3_xst.jpg" class="img-thumbnail" alt="exterior_3.jpg">
-exterior_3.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/exterior_3_st.jpg">
+<p>exterior_3.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/exterior_4_xst.jpg" class="img-thumbnail" alt="exterior_4.jpg">
-exterior_4.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/exterior_4_st.jpg">
+<p>exterior_4.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/exterior_5_xst.jpg" class="img-thumbnail" alt="exterior_5.jpg">
-exterior_5.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/exterior_5_st.jpg">
+<p>exterior_5.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/frontseats_1_xst.jpg" class="img-thumbnail" alt="frontseats_1.jpg">
-frontseats_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/frontseats_1_st.jpg">
+<p>frontseats_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/frunk_1_xst.jpg" class="img-thumbnail" alt="frunk_1.jpg">
-frunk_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/frunk_1_st.jpg">
+<p>frunk_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/headlights_1_xst.jpg" class="img-thumbnail" alt="headlights_1.jpg">
-headlights_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/headlights_1_st.jpg">
+<p>headlights_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/interior_1_xst.jpg" class="img-thumbnail" alt="interior_1.jpg">
-interior_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/interior_1_st.jpg">
+<p>interior_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/interior_2_xst.jpg" class="img-thumbnail" alt="interior_2.jpg">
-interior_2.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/interior_2_st.jpg">
+<p>interior_2.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/interior_3_xst.jpg" class="img-thumbnail" alt="interior_3.jpg">
-interior_3.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/interior_3_st.jpg">
+<p>interior_3.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/main_1_xst.jpg" class="img-thumbnail" alt="main_1.jpg">
-main_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/main_1_st.jpg">
+<p>main_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/rearlights_1_xst.jpg" class="img-thumbnail" alt="rearlights_1.jpg">
-rearlights_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/rearlights_1_st.jpg">
+<p>rearlights_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/screens_1_xst.jpg" class="img-thumbnail" alt="screens_1.jpg">
-screens_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/screens_1_st.jpg">
+<p>screens_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/screens_2_xst.jpg" class="img-thumbnail" alt="screens_2.jpg">
-screens_2.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/screens_2_st.jpg">
+<p>screens_2.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/screens_3_xst.jpg" class="img-thumbnail" alt="screens_3.jpg">
-screens_3.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/screens_3_st.jpg">
+<p>screens_3.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/screens_4_xst.jpg" class="img-thumbnail" alt="screens_4.jpg">
-screens_4.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/screens_4_st.jpg">
+<p>screens_4.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/screens_5_xst.jpg" class="img-thumbnail" alt="screens_5.jpg">
-screens_5.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/screens_5_st.jpg">
+<p>screens_5.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/secondrowseats_1_xst.jpg" class="img-thumbnail" alt="secondrowseats_1.jpg">
-secondrowseats_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/secondrowseats_1_st.jpg">
+<p>secondrowseats_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/steeringwheel_1_xst.jpg" class="img-thumbnail" alt="steeringwheel_1.jpg">
-steeringwheel_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/steeringwheel_1_st.jpg">
+<p>steeringwheel_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/trunk_1_xst.jpg" class="img-thumbnail" alt="trunk_1.jpg">
-trunk_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/trunk_1_st.jpg">
+<p>trunk_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/wheels_1_xst.jpg" class="img-thumbnail" alt="wheels_1.jpg">
-wheels_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/wheels_1_st.jpg">
+<p>wheels_1.jpg</p>
+</div>
 </div>

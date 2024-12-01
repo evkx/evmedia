@@ -1,29 +1,66 @@
 ## technology\motors
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/technology/motors/asmmotorq8etron_xst.jpg" class="img-thumbnail" alt="asmmotorq8etron.jpg">
-asmmotorq8etron.jpg
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    .image-gallery {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+        padding: 10px;
+    }
+    .image-gallery img {
+        width: 300px;
+        height: auto;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+    }
+    .image-gallery div {
+        flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+        max-width: 300px;
+        text-align: center;
+    }
+    @media (max-width: 768px) {
+        .image-gallery div {
+            flex: 1 1 calc(50% - 20px); /* Two images per row on medium screens */
+        }
+    }
+    @media (max-width: 480px) {
+        .image-gallery div {
+            flex: 1 1 100%; /* One image per row on small screens */
+        }
+    }
+</style>
+<h1 style ="text-align: center;"> Image Overview </h1> <div class="image-gallery">
+<div>
+<img src="https://media.evkx.net/multimedia/technology/motors/asmmotorq8etron_st.jpg">
+<p>asmmotorq8etron.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/technology/motors/asyncronmotor_xst.jpg" class="img-thumbnail" alt="asyncronmotor.jpg">
-asyncronmotor.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/technology/motors/asyncronmotor_st.jpg">
+<p>asyncronmotor.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/technology/motors/audiq8etrondriveunit_xst.jpg" class="img-thumbnail" alt="audiq8etrondriveunit.jpg">
-audiq8etrondriveunit.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/technology/motors/audiq8etrondriveunit_st.jpg">
+<p>audiq8etrondriveunit.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/technology/motors/porschetaycanpsm_xst.jpg" class="img-thumbnail" alt="porschetaycanpsm.jpg">
-porschetaycanpsm.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/technology/motors/porschetaycanpsm_st.jpg">
+<p>porschetaycanpsm.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/technology/motors/trimotorsetupaudi_xst.jpg" class="img-thumbnail" alt="trimotorsetupaudi.jpg">
-trimotorsetupaudi.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/technology/motors/trimotorsetupaudi_st.jpg">
+<p>trimotorsetupaudi.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/technology/motors/vwapp550_xst.jpg" class="img-thumbnail" alt="vwapp550.jpg">
-vwapp550.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/technology/motors/vwapp550_st.jpg">
+<p>vwapp550.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/technology/motors/vwapp550_2_xst.jpg" class="img-thumbnail" alt="vwapp550_2.jpg">
-vwapp550_2.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/technology/motors/vwapp550_2_st.jpg">
+<p>vwapp550_2.jpg</p>
+</div>
 </div>

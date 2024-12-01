@@ -1,121 +1,158 @@
 ## models\audi\e-tron_gt\s_e-tron_gt
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/chargeport_1_xst.jpg" class="img-thumbnail" alt="chargeport_1.jpg">
-chargeport_1.jpg
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    .image-gallery {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+        padding: 10px;
+    }
+    .image-gallery img {
+        width: 300px;
+        height: auto;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+    }
+    .image-gallery div {
+        flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+        max-width: 300px;
+        text-align: center;
+    }
+    @media (max-width: 768px) {
+        .image-gallery div {
+            flex: 1 1 calc(50% - 20px); /* Two images per row on medium screens */
+        }
+    }
+    @media (max-width: 480px) {
+        .image-gallery div {
+            flex: 1 1 100%; /* One image per row on small screens */
+        }
+    }
+</style>
+<h1 style ="text-align: center;"> Image Overview </h1> <div class="image-gallery">
+<div>
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/chargeport_1_st.jpg">
+<p>chargeport_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/chargeport_2_xst.jpg" class="img-thumbnail" alt="chargeport_2.jpg">
-chargeport_2.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/chargeport_2_st.jpg">
+<p>chargeport_2.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/charging_1_xst.jpg" class="img-thumbnail" alt="charging_1.jpg">
-charging_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/charging_1_st.jpg">
+<p>charging_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/exterior_1_xst.jpg" class="img-thumbnail" alt="exterior_1.jpg">
-exterior_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/exterior_1_st.jpg">
+<p>exterior_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/exterior_10_xst.jpg" class="img-thumbnail" alt="exterior_10.jpg">
-exterior_10.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/exterior_10_st.jpg">
+<p>exterior_10.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/exterior_11_xst.jpg" class="img-thumbnail" alt="exterior_11.jpg">
-exterior_11.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/exterior_11_st.jpg">
+<p>exterior_11.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/exterior_12_xst.jpg" class="img-thumbnail" alt="exterior_12.jpg">
-exterior_12.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/exterior_12_st.jpg">
+<p>exterior_12.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/exterior_13_xst.jpg" class="img-thumbnail" alt="exterior_13.jpg">
-exterior_13.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/exterior_13_st.jpg">
+<p>exterior_13.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/exterior_14_xst.jpg" class="img-thumbnail" alt="exterior_14.jpg">
-exterior_14.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/exterior_14_st.jpg">
+<p>exterior_14.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/exterior_2_xst.jpg" class="img-thumbnail" alt="exterior_2.jpg">
-exterior_2.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/exterior_2_st.jpg">
+<p>exterior_2.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/exterior_3_xst.jpg" class="img-thumbnail" alt="exterior_3.jpg">
-exterior_3.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/exterior_3_st.jpg">
+<p>exterior_3.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/exterior_4_xst.jpg" class="img-thumbnail" alt="exterior_4.jpg">
-exterior_4.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/exterior_4_st.jpg">
+<p>exterior_4.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/exterior_5_xst.jpg" class="img-thumbnail" alt="exterior_5.jpg">
-exterior_5.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/exterior_5_st.jpg">
+<p>exterior_5.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/exterior_6_xst.jpg" class="img-thumbnail" alt="exterior_6.jpg">
-exterior_6.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/exterior_6_st.jpg">
+<p>exterior_6.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/exterior_7_xst.jpg" class="img-thumbnail" alt="exterior_7.jpg">
-exterior_7.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/exterior_7_st.jpg">
+<p>exterior_7.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/exterior_8_xst.jpg" class="img-thumbnail" alt="exterior_8.jpg">
-exterior_8.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/exterior_8_st.jpg">
+<p>exterior_8.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/exterior_9_xst.jpg" class="img-thumbnail" alt="exterior_9.jpg">
-exterior_9.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/exterior_9_st.jpg">
+<p>exterior_9.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/frontseats_1_xst.jpg" class="img-thumbnail" alt="frontseats_1.jpg">
-frontseats_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/frontseats_1_st.jpg">
+<p>frontseats_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/frontseats_2_xst.jpg" class="img-thumbnail" alt="frontseats_2.jpg">
-frontseats_2.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/frontseats_2_st.jpg">
+<p>frontseats_2.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/headlights_1_xst.jpg" class="img-thumbnail" alt="headlights_1.jpg">
-headlights_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/headlights_1_st.jpg">
+<p>headlights_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/headlights_2_xst.jpg" class="img-thumbnail" alt="headlights_2.jpg">
-headlights_2.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/headlights_2_st.jpg">
+<p>headlights_2.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/interior_1_xst.jpg" class="img-thumbnail" alt="interior_1.jpg">
-interior_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/interior_1_st.jpg">
+<p>interior_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/main_1_xst.jpg" class="img-thumbnail" alt="main_1.jpg">
-main_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/main_1_st.jpg">
+<p>main_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/modelrange_1_xst.jpg" class="img-thumbnail" alt="modelrange_1.jpg">
-modelrange_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/modelrange_1_st.jpg">
+<p>modelrange_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/modelrange_2_xst.jpg" class="img-thumbnail" alt="modelrange_2.jpg">
-modelrange_2.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/modelrange_2_st.jpg">
+<p>modelrange_2.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/rearlights_1_xst.jpg" class="img-thumbnail" alt="rearlights_1.jpg">
-rearlights_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/rearlights_1_st.jpg">
+<p>rearlights_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/rearlights_2_xst.jpg" class="img-thumbnail" alt="rearlights_2.jpg">
-rearlights_2.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/rearlights_2_st.jpg">
+<p>rearlights_2.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/roof_1_xst.jpg" class="img-thumbnail" alt="roof_1.jpg">
-roof_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/roof_1_st.jpg">
+<p>roof_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/roof_2_xst.jpg" class="img-thumbnail" alt="roof_2.jpg">
-roof_2.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/roof_2_st.jpg">
+<p>roof_2.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/trunk_1_xst.jpg" class="img-thumbnail" alt="trunk_1.jpg">
-trunk_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/models/audi/e-tron_gt/s_e-tron_gt/trunk_1_st.jpg">
+<p>trunk_1.jpg</p>
+</div>
 </div>

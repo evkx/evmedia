@@ -1,41 +1,78 @@
 ## technology\lights\rearlights
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/technology/lights/rearlights/audia6rearlights_1_xst.jpg" class="img-thumbnail" alt="audia6rearlights_1.jpg">
-audia6rearlights_1.jpg
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    .image-gallery {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+        padding: 10px;
+    }
+    .image-gallery img {
+        width: 300px;
+        height: auto;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+    }
+    .image-gallery div {
+        flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+        max-width: 300px;
+        text-align: center;
+    }
+    @media (max-width: 768px) {
+        .image-gallery div {
+            flex: 1 1 calc(50% - 20px); /* Two images per row on medium screens */
+        }
+    }
+    @media (max-width: 480px) {
+        .image-gallery div {
+            flex: 1 1 100%; /* One image per row on small screens */
+        }
+    }
+</style>
+<h1 style ="text-align: center;"> Image Overview </h1> <div class="image-gallery">
+<div>
+<img src="https://media.evkx.net/multimedia/technology/lights/rearlights/audia6rearlights_1_st.jpg">
+<p>audia6rearlights_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/technology/lights/rearlights/audiq6rearlightsconstruction_xst.jpg" class="img-thumbnail" alt="audiq6rearlightsconstruction.jpg">
-audiq6rearlightsconstruction.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/technology/lights/rearlights/audiq6rearlightsconstruction_st.jpg">
+<p>audiq6rearlightsconstruction.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/technology/lights/rearlights/audiq8etronrearlight_xst.jpg" class="img-thumbnail" alt="audiq8etronrearlight.jpg">
-audiq8etronrearlight.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/technology/lights/rearlights/audiq8etronrearlight_st.jpg">
+<p>audiq8etronrearlight.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/technology/lights/rearlights/audiq8rearlightsignatures_xst.jpg" class="img-thumbnail" alt="audiq8rearlightsignatures.jpg">
-audiq8rearlightsignatures.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/technology/lights/rearlights/audiq8rearlightsignatures_st.jpg">
+<p>audiq8rearlightsignatures.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/technology/lights/rearlights/audiq8rearlights_1_xst.jpg" class="img-thumbnail" alt="audiq8rearlights_1.jpg">
-audiq8rearlights_1.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/technology/lights/rearlights/audiq8rearlights_1_st.jpg">
+<p>audiq8rearlights_1.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/technology/lights/rearlights/audiq8rearlights_2_xst.jpg" class="img-thumbnail" alt="audiq8rearlights_2.jpg">
-audiq8rearlights_2.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/technology/lights/rearlights/audiq8rearlights_2_st.jpg">
+<p>audiq8rearlights_2.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/technology/lights/rearlights/audiq8rearlights_3_xst.jpg" class="img-thumbnail" alt="audiq8rearlights_3.jpg">
-audiq8rearlights_3.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/technology/lights/rearlights/audiq8rearlights_3_st.jpg">
+<p>audiq8rearlights_3.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/technology/lights/rearlights/audiq8rearlights_4_xst.jpg" class="img-thumbnail" alt="audiq8rearlights_4.jpg">
-audiq8rearlights_4.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/technology/lights/rearlights/audiq8rearlights_4_st.jpg">
+<p>audiq8rearlights_4.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/technology/lights/rearlights/eqsrearlights_xst.jpg" class="img-thumbnail" alt="eqsrearlights.jpg">
-eqsrearlights.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/technology/lights/rearlights/eqsrearlights_st.jpg">
+<p>eqsrearlights.jpg</p>
 </div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/technology/lights/rearlights/hiphixrearlights_xst.jpg" class="img-thumbnail" alt="hiphixrearlights.jpg">
-hiphixrearlights.jpg
+<div>
+<img src="https://media.evkx.net/multimedia/technology/lights/rearlights/hiphixrearlights_st.jpg">
+<p>hiphixrearlights.jpg</p>
+</div>
 </div>

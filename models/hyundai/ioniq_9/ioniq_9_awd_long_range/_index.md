@@ -1,309 +1,346 @@
 ## models\hyundai\ioniq_9\ioniq_9_awd_long_range
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/chargeport_1_xst.jpg" class="img-thumbnail" alt="chargeport_1.jpg">
-chargeport_1.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/charging_1_xst.jpg" class="img-thumbnail" alt="charging_1.jpg">
-charging_1.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_1_xst.jpg" class="img-thumbnail" alt="details_1.jpg">
-details_1.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_10_xst.jpg" class="img-thumbnail" alt="details_10.jpg">
-details_10.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_11_xst.jpg" class="img-thumbnail" alt="details_11.jpg">
-details_11.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_12_xst.jpg" class="img-thumbnail" alt="details_12.jpg">
-details_12.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_13_xst.jpg" class="img-thumbnail" alt="details_13.jpg">
-details_13.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_14_xst.jpg" class="img-thumbnail" alt="details_14.jpg">
-details_14.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_15_xst.jpg" class="img-thumbnail" alt="details_15.jpg">
-details_15.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_16_xst.jpg" class="img-thumbnail" alt="details_16.jpg">
-details_16.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_17_xst.jpg" class="img-thumbnail" alt="details_17.jpg">
-details_17.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_18_xst.jpg" class="img-thumbnail" alt="details_18.jpg">
-details_18.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_2_xst.jpg" class="img-thumbnail" alt="details_2.jpg">
-details_2.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_3_xst.jpg" class="img-thumbnail" alt="details_3.jpg">
-details_3.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_4_xst.jpg" class="img-thumbnail" alt="details_4.jpg">
-details_4.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_5_xst.jpg" class="img-thumbnail" alt="details_5.jpg">
-details_5.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_6_xst.jpg" class="img-thumbnail" alt="details_6.jpg">
-details_6.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_7_xst.jpg" class="img-thumbnail" alt="details_7.jpg">
-details_7.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_8_xst.jpg" class="img-thumbnail" alt="details_8.jpg">
-details_8.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_9_xst.jpg" class="img-thumbnail" alt="details_9.jpg">
-details_9.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/doors_1_xst.jpg" class="img-thumbnail" alt="doors_1.jpg">
-doors_1.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/doors_2_xst.jpg" class="img-thumbnail" alt="doors_2.jpg">
-doors_2.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/drivemodes_1_xst.jpg" class="img-thumbnail" alt="drivemodes_1.jpg">
-drivemodes_1.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/drivemodes_2_xst.jpg" class="img-thumbnail" alt="drivemodes_2.jpg">
-drivemodes_2.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/dynamic_1_xst.jpg" class="img-thumbnail" alt="dynamic_1.jpg">
-dynamic_1.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/dynamic_2_xst.jpg" class="img-thumbnail" alt="dynamic_2.jpg">
-dynamic_2.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/exterior_1_xst.jpg" class="img-thumbnail" alt="exterior_1.jpg">
-exterior_1.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/exterior_2_xst.jpg" class="img-thumbnail" alt="exterior_2.jpg">
-exterior_2.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/exterior_3_xst.jpg" class="img-thumbnail" alt="exterior_3.jpg">
-exterior_3.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/exterior_4_xst.jpg" class="img-thumbnail" alt="exterior_4.jpg">
-exterior_4.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/exterior_5_xst.jpg" class="img-thumbnail" alt="exterior_5.jpg">
-exterior_5.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/exterior_6_xst.jpg" class="img-thumbnail" alt="exterior_6.jpg">
-exterior_6.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/exterior_7_xst.jpg" class="img-thumbnail" alt="exterior_7.jpg">
-exterior_7.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/frontseats_1_xst.jpg" class="img-thumbnail" alt="frontseats_1.jpg">
-frontseats_1.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/frontseats_2_xst.jpg" class="img-thumbnail" alt="frontseats_2.jpg">
-frontseats_2.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/frontseats_3_xst.jpg" class="img-thumbnail" alt="frontseats_3.jpg">
-frontseats_3.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/frunk_1_xst.jpg" class="img-thumbnail" alt="frunk_1.jpg">
-frunk_1.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/headlights_1_xst.jpg" class="img-thumbnail" alt="headlights_1.jpg">
-headlights_1.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/headlights_2_xst.jpg" class="img-thumbnail" alt="headlights_2.jpg">
-headlights_2.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/interior_1_xst.jpg" class="img-thumbnail" alt="interior_1.jpg">
-interior_1.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/interior_2_xst.jpg" class="img-thumbnail" alt="interior_2.jpg">
-interior_2.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/main_1_xst.jpg" class="img-thumbnail" alt="main_1.jpg">
-main_1.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/mirrors_1_xst.jpg" class="img-thumbnail" alt="mirrors_1.jpg">
-mirrors_1.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/phoneaskey_1_xst.jpg" class="img-thumbnail" alt="phoneaskey_1.jpg">
-phoneaskey_1.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/qicharging_1_xst.jpg" class="img-thumbnail" alt="qicharging_1.jpg">
-qicharging_1.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/rearlights_1_xst.jpg" class="img-thumbnail" alt="rearlights_1.jpg">
-rearlights_1.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/screens_1_xst.jpg" class="img-thumbnail" alt="screens_1.jpg">
-screens_1.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/screens_2_xst.jpg" class="img-thumbnail" alt="screens_2.jpg">
-screens_2.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/screens_3_xst.jpg" class="img-thumbnail" alt="screens_3.jpg">
-screens_3.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/screens_4_xst.jpg" class="img-thumbnail" alt="screens_4.jpg">
-screens_4.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/screens_5_xst.jpg" class="img-thumbnail" alt="screens_5.jpg">
-screens_5.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/seats_1_xst.jpg" class="img-thumbnail" alt="seats_1.jpg">
-seats_1.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/secondrowseats_1_xst.jpg" class="img-thumbnail" alt="secondrowseats_1.jpg">
-secondrowseats_1.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/secondrowseats_10_xst.jpg" class="img-thumbnail" alt="secondrowseats_10.jpg">
-secondrowseats_10.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/secondrowseats_11_xst.jpg" class="img-thumbnail" alt="secondrowseats_11.jpg">
-secondrowseats_11.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/secondrowseats_2_xst.jpg" class="img-thumbnail" alt="secondrowseats_2.jpg">
-secondrowseats_2.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/secondrowseats_3_xst.jpg" class="img-thumbnail" alt="secondrowseats_3.jpg">
-secondrowseats_3.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/secondrowseats_4_xst.jpg" class="img-thumbnail" alt="secondrowseats_4.jpg">
-secondrowseats_4.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/secondrowseats_5_xst.jpg" class="img-thumbnail" alt="secondrowseats_5.jpg">
-secondrowseats_5.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/secondrowseats_6_xst.jpg" class="img-thumbnail" alt="secondrowseats_6.jpg">
-secondrowseats_6.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/secondrowseats_7_xst.jpg" class="img-thumbnail" alt="secondrowseats_7.jpg">
-secondrowseats_7.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/secondrowseats_8_xst.jpg" class="img-thumbnail" alt="secondrowseats_8.jpg">
-secondrowseats_8.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/secondrowseats_9_xst.jpg" class="img-thumbnail" alt="secondrowseats_9.jpg">
-secondrowseats_9.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/speakers_1_xst.jpg" class="img-thumbnail" alt="speakers_1.jpg">
-speakers_1.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/thirdrowseats_1_xst.jpg" class="img-thumbnail" alt="thirdrowseats_1.jpg">
-thirdrowseats_1.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/thirdrowseats_2_xst.jpg" class="img-thumbnail" alt="thirdrowseats_2.jpg">
-thirdrowseats_2.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/thirdrowseats_3_xst.jpg" class="img-thumbnail" alt="thirdrowseats_3.jpg">
-thirdrowseats_3.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/trunk_1_xst.jpg" class="img-thumbnail" alt="trunk_1.jpg">
-trunk_1.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/trunk_2_xst.jpg" class="img-thumbnail" alt="trunk_2.jpg">
-trunk_2.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/trunk_3_xst.jpg" class="img-thumbnail" alt="trunk_3.jpg">
-trunk_3.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/trunk_4_xst.jpg" class="img-thumbnail" alt="trunk_4.jpg">
-trunk_4.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/trunk_5_xst.jpg" class="img-thumbnail" alt="trunk_5.jpg">
-trunk_5.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/trunk_6_xst.jpg" class="img-thumbnail" alt="trunk_6.jpg">
-trunk_6.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/trunk_7_xst.jpg" class="img-thumbnail" alt="trunk_7.jpg">
-trunk_7.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/vents_1_xst.jpg" class="img-thumbnail" alt="vents_1.jpg">
-vents_1.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/wheels_1_xst.jpg" class="img-thumbnail" alt="wheels_1.jpg">
-wheels_1.jpg
-</div>
-<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
-<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/wheels_2_xst.jpg" class="img-thumbnail" alt="wheels_2.jpg">
-wheels_2.jpg
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    .image-gallery {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
+        justify-content: center;
+        padding: 10px;
+    }
+    .image-gallery img {
+        width: 300px;
+        height: auto;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+    }
+    .image-gallery div {
+        flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+        max-width: 300px;
+        text-align: center;
+    }
+    @media (max-width: 768px) {
+        .image-gallery div {
+            flex: 1 1 calc(50% - 20px); /* Two images per row on medium screens */
+        }
+    }
+    @media (max-width: 480px) {
+        .image-gallery div {
+            flex: 1 1 100%; /* One image per row on small screens */
+        }
+    }
+</style>
+<h1 style ="text-align: center;"> Image Overview </h1> <div class="image-gallery">
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/chargeport_1_st.jpg">
+<p>chargeport_1.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/charging_1_st.jpg">
+<p>charging_1.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_1_st.jpg">
+<p>details_1.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_10_st.jpg">
+<p>details_10.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_11_st.jpg">
+<p>details_11.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_12_st.jpg">
+<p>details_12.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_13_st.jpg">
+<p>details_13.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_14_st.jpg">
+<p>details_14.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_15_st.jpg">
+<p>details_15.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_16_st.jpg">
+<p>details_16.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_17_st.jpg">
+<p>details_17.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_18_st.jpg">
+<p>details_18.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_2_st.jpg">
+<p>details_2.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_3_st.jpg">
+<p>details_3.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_4_st.jpg">
+<p>details_4.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_5_st.jpg">
+<p>details_5.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_6_st.jpg">
+<p>details_6.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_7_st.jpg">
+<p>details_7.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_8_st.jpg">
+<p>details_8.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/details_9_st.jpg">
+<p>details_9.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/doors_1_st.jpg">
+<p>doors_1.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/doors_2_st.jpg">
+<p>doors_2.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/drivemodes_1_st.jpg">
+<p>drivemodes_1.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/drivemodes_2_st.jpg">
+<p>drivemodes_2.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/dynamic_1_st.jpg">
+<p>dynamic_1.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/dynamic_2_st.jpg">
+<p>dynamic_2.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/exterior_1_st.jpg">
+<p>exterior_1.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/exterior_2_st.jpg">
+<p>exterior_2.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/exterior_3_st.jpg">
+<p>exterior_3.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/exterior_4_st.jpg">
+<p>exterior_4.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/exterior_5_st.jpg">
+<p>exterior_5.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/exterior_6_st.jpg">
+<p>exterior_6.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/exterior_7_st.jpg">
+<p>exterior_7.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/frontseats_1_st.jpg">
+<p>frontseats_1.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/frontseats_2_st.jpg">
+<p>frontseats_2.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/frontseats_3_st.jpg">
+<p>frontseats_3.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/frunk_1_st.jpg">
+<p>frunk_1.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/headlights_1_st.jpg">
+<p>headlights_1.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/headlights_2_st.jpg">
+<p>headlights_2.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/interior_1_st.jpg">
+<p>interior_1.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/interior_2_st.jpg">
+<p>interior_2.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/main_1_st.jpg">
+<p>main_1.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/mirrors_1_st.jpg">
+<p>mirrors_1.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/phoneaskey_1_st.jpg">
+<p>phoneaskey_1.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/qicharging_1_st.jpg">
+<p>qicharging_1.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/rearlights_1_st.jpg">
+<p>rearlights_1.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/screens_1_st.jpg">
+<p>screens_1.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/screens_2_st.jpg">
+<p>screens_2.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/screens_3_st.jpg">
+<p>screens_3.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/screens_4_st.jpg">
+<p>screens_4.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/screens_5_st.jpg">
+<p>screens_5.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/seats_1_st.jpg">
+<p>seats_1.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/secondrowseats_1_st.jpg">
+<p>secondrowseats_1.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/secondrowseats_10_st.jpg">
+<p>secondrowseats_10.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/secondrowseats_11_st.jpg">
+<p>secondrowseats_11.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/secondrowseats_2_st.jpg">
+<p>secondrowseats_2.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/secondrowseats_3_st.jpg">
+<p>secondrowseats_3.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/secondrowseats_4_st.jpg">
+<p>secondrowseats_4.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/secondrowseats_5_st.jpg">
+<p>secondrowseats_5.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/secondrowseats_6_st.jpg">
+<p>secondrowseats_6.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/secondrowseats_7_st.jpg">
+<p>secondrowseats_7.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/secondrowseats_8_st.jpg">
+<p>secondrowseats_8.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/secondrowseats_9_st.jpg">
+<p>secondrowseats_9.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/speakers_1_st.jpg">
+<p>speakers_1.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/thirdrowseats_1_st.jpg">
+<p>thirdrowseats_1.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/thirdrowseats_2_st.jpg">
+<p>thirdrowseats_2.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/thirdrowseats_3_st.jpg">
+<p>thirdrowseats_3.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/trunk_1_st.jpg">
+<p>trunk_1.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/trunk_2_st.jpg">
+<p>trunk_2.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/trunk_3_st.jpg">
+<p>trunk_3.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/trunk_4_st.jpg">
+<p>trunk_4.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/trunk_5_st.jpg">
+<p>trunk_5.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/trunk_6_st.jpg">
+<p>trunk_6.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/trunk_7_st.jpg">
+<p>trunk_7.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/vents_1_st.jpg">
+<p>vents_1.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/wheels_1_st.jpg">
+<p>wheels_1.jpg</p>
+</div>
+<div>
+<img src="https://media.evkx.net/multimedia/models/hyundai/ioniq_9/ioniq_9_awd_long_range/wheels_2_st.jpg">
+<p>wheels_2.jpg</p>
+</div>
 </div>
