@@ -13,14 +13,14 @@
         padding: 10px;
     }
     .image-gallery img {
-        width: 300px;
+        width: 150px;
         height: auto;
         border: 1px solid #ddd;
         border-radius: 5px;
     }
     .image-gallery div {
         flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-        max-width: 300px;
+        max-width: 150px;
         text-align: center;
     }
     @media (max-width: 768px) {
