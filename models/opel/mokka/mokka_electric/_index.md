@@ -1,53 +1,49 @@
-<h1>models\opel\mokka\mokka_electric</h1>
-<div class="container text-center">
-<div class="row">
-<div class="col col-lg-2 col-6">
+## models\opel\mokka\mokka_electric
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/charging_1_xst.jpeg" class="img-thumbnail" alt="charging_1.jpeg">
 charging_1.jpeg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/detail_1_xst.jpeg" class="img-thumbnail" alt="detail_1.jpeg">
 detail_1.jpeg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/dreivetrain_1_xst.jpeg" class="img-thumbnail" alt="dreivetrain_1.jpeg">
 dreivetrain_1.jpeg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/exterior_1_xst.jpeg" class="img-thumbnail" alt="exterior_1.jpeg">
 exterior_1.jpeg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/exterior_2_xst.jpeg" class="img-thumbnail" alt="exterior_2.jpeg">
 exterior_2.jpeg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/exterior_3_xst.jpeg" class="img-thumbnail" alt="exterior_3.jpeg">
 exterior_3.jpeg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/exterior_4_xst.jpeg" class="img-thumbnail" alt="exterior_4.jpeg">
 exterior_4.jpeg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/exterior_5_xst.jpeg" class="img-thumbnail" alt="exterior_5.jpeg">
 exterior_5.jpeg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/frontseats_1_xst.jpeg" class="img-thumbnail" alt="frontseats_1.jpeg">
 frontseats_1.jpeg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/main_1_xst.jpeg" class="img-thumbnail" alt="main_1.jpeg">
 main_1.jpeg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/rearlights_1_xst.jpeg" class="img-thumbnail" alt="rearlights_1.jpeg">
 rearlights_1.jpeg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/opel/mokka/mokka_electric/screens_1_xst.jpeg" class="img-thumbnail" alt="screens_1.jpeg">
 screens_1.jpeg
-</div>
-</div>
 </div>

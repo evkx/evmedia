@@ -1,229 +1,225 @@
-<h1>models\renault\5\5_e-tech_52kwh_150hp</h1>
-<div class="container text-center">
-<div class="row">
-<div class="col col-lg-2 col-6">
+## models\renault\5\5_e-tech_52kwh_150hp
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/chargeport_1_xst.jpg" class="img-thumbnail" alt="chargeport_1.jpg">
 chargeport_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/charging_1_xst.jpg" class="img-thumbnail" alt="charging_1.jpg">
 charging_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/details_1_xst.jpg" class="img-thumbnail" alt="details_1.jpg">
 details_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/details_2_xst.jpg" class="img-thumbnail" alt="details_2.jpg">
 details_2.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/details_3_xst.jpg" class="img-thumbnail" alt="details_3.jpg">
 details_3.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/details_4_xst.jpg" class="img-thumbnail" alt="details_4.jpg">
 details_4.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/exterior_1_xst.jpg" class="img-thumbnail" alt="exterior_1.jpg">
 exterior_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/exterior_10_xst.jpg" class="img-thumbnail" alt="exterior_10.jpg">
 exterior_10.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/exterior_11_xst.jpg" class="img-thumbnail" alt="exterior_11.jpg">
 exterior_11.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/exterior_12_xst.jpg" class="img-thumbnail" alt="exterior_12.jpg">
 exterior_12.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/exterior_13_xst.jpg" class="img-thumbnail" alt="exterior_13.jpg">
 exterior_13.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/exterior_14_xst.jpg" class="img-thumbnail" alt="exterior_14.jpg">
 exterior_14.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/exterior_15_xst.jpg" class="img-thumbnail" alt="exterior_15.jpg">
 exterior_15.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/exterior_16_xst.jpg" class="img-thumbnail" alt="exterior_16.jpg">
 exterior_16.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/exterior_17_xst.jpg" class="img-thumbnail" alt="exterior_17.jpg">
 exterior_17.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/exterior_18_xst.jpg" class="img-thumbnail" alt="exterior_18.jpg">
 exterior_18.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/exterior_19_xst.jpg" class="img-thumbnail" alt="exterior_19.jpg">
 exterior_19.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/exterior_2_xst.jpg" class="img-thumbnail" alt="exterior_2.jpg">
 exterior_2.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/exterior_20_xst.jpg" class="img-thumbnail" alt="exterior_20.jpg">
 exterior_20.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/exterior_21_xst.jpg" class="img-thumbnail" alt="exterior_21.jpg">
 exterior_21.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/exterior_22_xst.jpg" class="img-thumbnail" alt="exterior_22.jpg">
 exterior_22.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/exterior_23_xst.jpg" class="img-thumbnail" alt="exterior_23.jpg">
 exterior_23.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/exterior_24_xst.jpg" class="img-thumbnail" alt="exterior_24.jpg">
 exterior_24.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/exterior_25_xst.jpg" class="img-thumbnail" alt="exterior_25.jpg">
 exterior_25.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/exterior_26_xst.jpg" class="img-thumbnail" alt="exterior_26.jpg">
 exterior_26.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/exterior_27_xst.jpg" class="img-thumbnail" alt="exterior_27.jpg">
 exterior_27.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/exterior_28_xst.jpg" class="img-thumbnail" alt="exterior_28.jpg">
 exterior_28.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/exterior_29_xst.jpg" class="img-thumbnail" alt="exterior_29.jpg">
 exterior_29.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/exterior_3_xst.jpg" class="img-thumbnail" alt="exterior_3.jpg">
 exterior_3.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/exterior_30_xst.jpg" class="img-thumbnail" alt="exterior_30.jpg">
 exterior_30.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/exterior_4_xst.jpg" class="img-thumbnail" alt="exterior_4.jpg">
 exterior_4.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/exterior_5_xst.jpg" class="img-thumbnail" alt="exterior_5.jpg">
 exterior_5.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/exterior_6_xst.jpg" class="img-thumbnail" alt="exterior_6.jpg">
 exterior_6.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/exterior_7_xst.jpg" class="img-thumbnail" alt="exterior_7.jpg">
 exterior_7.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/exterior_8_xst.jpg" class="img-thumbnail" alt="exterior_8.jpg">
 exterior_8.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/exterior_9_xst.jpg" class="img-thumbnail" alt="exterior_9.jpg">
 exterior_9.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/frontseats_1_xst.jpg" class="img-thumbnail" alt="frontseats_1.jpg">
 frontseats_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/frontseats_2_xst.jpg" class="img-thumbnail" alt="frontseats_2.jpg">
 frontseats_2.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/headlights_1_xst.jpg" class="img-thumbnail" alt="headlights_1.jpg">
 headlights_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/headlights_2_xst.jpg" class="img-thumbnail" alt="headlights_2.jpg">
 headlights_2.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/headlights_3_xst.jpg" class="img-thumbnail" alt="headlights_3.jpg">
 headlights_3.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/interior_1_xst.jpg" class="img-thumbnail" alt="interior_1.jpg">
 interior_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/interior_2_xst.jpg" class="img-thumbnail" alt="interior_2.jpg">
 interior_2.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/interior_3_xst.jpg" class="img-thumbnail" alt="interior_3.jpg">
 interior_3.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/main_1_xst.jpg" class="img-thumbnail" alt="main_1.jpg">
 main_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/platform_1_xst.jpg" class="img-thumbnail" alt="platform_1.jpg">
 platform_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/rearlights_1_xst.jpg" class="img-thumbnail" alt="rearlights_1.jpg">
 rearlights_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/roof_1_xst.jpg" class="img-thumbnail" alt="roof_1.jpg">
 roof_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/seats_1_xst.jpg" class="img-thumbnail" alt="seats_1.jpg">
 seats_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/seats_2_xst.jpg" class="img-thumbnail" alt="seats_2.jpg">
 seats_2.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/stalks_1_xst.jpg" class="img-thumbnail" alt="stalks_1.jpg">
 stalks_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/stalks_2_xst.jpg" class="img-thumbnail" alt="stalks_2.jpg">
 stalks_2.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/stalks_3_xst.jpg" class="img-thumbnail" alt="stalks_3.jpg">
 stalks_3.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/stralks_4_xst.jpg" class="img-thumbnail" alt="stralks_4.jpg">
 stralks_4.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/wheels_1_xst.jpg" class="img-thumbnail" alt="wheels_1.jpg">
 wheels_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/renault/5/5_e-tech_52kwh_150hp/wheels_2_xst.jpg" class="img-thumbnail" alt="wheels_2.jpg">
 wheels_2.jpg
-</div>
-</div>
 </div>

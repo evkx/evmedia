@@ -1,49 +1,45 @@
-<h1>technology\suspension</h1>
-<div class="container text-center">
-<div class="row">
-<div class="col col-lg-2 col-6">
+## technology\suspension
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/technology/suspension/bilstein_xst.jpg" class="img-thumbnail" alt="bilstein.jpg">
 bilstein.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/technology/suspension/fivelinkrearsuspension_1_xst.jpg" class="img-thumbnail" alt="fivelinkrearsuspension_1.jpg">
 fivelinkrearsuspension_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/technology/suspension/mcphersonfront_1_xst.jpg" class="img-thumbnail" alt="mcphersonfront_1.jpg">
 mcphersonfront_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/technology/suspension/mercedeseqeair_xst.jpg" class="img-thumbnail" alt="mercedeseqeair.jpg">
 mercedeseqeair.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/technology/suspension/mercedeseqesteel_xst.jpg" class="img-thumbnail" alt="mercedeseqesteel.jpg">
 mercedeseqesteel.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/technology/suspension/mercedeseqssuvterrain_xst.jpg" class="img-thumbnail" alt="mercedeseqssuvterrain.jpg">
 mercedeseqssuvterrain.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/technology/suspension/multlinkrearairsuspension_1_xst.jpg" class="img-thumbnail" alt="multlinkrearairsuspension_1.jpg">
 multlinkrearairsuspension_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/technology/suspension/porscheactiveride_1_xst.jpg" class="img-thumbnail" alt="porscheactiveride_1.jpg">
 porscheactiveride_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/technology/suspension/rsetrongtsuspension_xst.jpg" class="img-thumbnail" alt="rsetrongtsuspension.jpg">
 rsetrongtsuspension.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/technology/suspension/suspensionmode_xst.png" class="img-thumbnail" alt="suspensionmode.png">
 suspensionmode.png
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/technology/suspension/wishboneairsuspensionfront_xst.jpg" class="img-thumbnail" alt="wishboneairsuspensionfront.jpg">
 wishboneairsuspensionfront.jpg
-</div>
-</div>
 </div>

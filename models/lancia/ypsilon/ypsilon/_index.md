@@ -1,101 +1,97 @@
-<h1>models\lancia\ypsilon\ypsilon</h1>
-<div class="container text-center">
-<div class="row">
-<div class="col col-lg-2 col-6">
+## models\lancia\ypsilon\ypsilon
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/lancia/ypsilon/ypsilon/camera_1_xst.jpg" class="img-thumbnail" alt="camera_1.jpg">
 camera_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/lancia/ypsilon/ypsilon/charging_1_xst.jpg" class="img-thumbnail" alt="charging_1.jpg">
 charging_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/lancia/ypsilon/ypsilon/details_1_xst.jpeg" class="img-thumbnail" alt="details_1.jpeg">
 details_1.jpeg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/lancia/ypsilon/ypsilon/details_2_xst.jpeg" class="img-thumbnail" alt="details_2.jpeg">
 details_2.jpeg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/lancia/ypsilon/ypsilon/details_3_xst.jpeg" class="img-thumbnail" alt="details_3.jpeg">
 details_3.jpeg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/lancia/ypsilon/ypsilon/details_4_xst.jpg" class="img-thumbnail" alt="details_4.jpg">
 details_4.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/lancia/ypsilon/ypsilon/exterior_1_xst.jpg" class="img-thumbnail" alt="exterior_1.jpg">
 exterior_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/lancia/ypsilon/ypsilon/exterior_2_xst.jpg" class="img-thumbnail" alt="exterior_2.jpg">
 exterior_2.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/lancia/ypsilon/ypsilon/exterior_3_xst.jpg" class="img-thumbnail" alt="exterior_3.jpg">
 exterior_3.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/lancia/ypsilon/ypsilon/exterior_4_xst.jpg" class="img-thumbnail" alt="exterior_4.jpg">
 exterior_4.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/lancia/ypsilon/ypsilon/exterior_5_xst.jpg" class="img-thumbnail" alt="exterior_5.jpg">
 exterior_5.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/lancia/ypsilon/ypsilon/exterior_6_xst.jpg" class="img-thumbnail" alt="exterior_6.jpg">
 exterior_6.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/lancia/ypsilon/ypsilon/frontseats_1_xst.jpg" class="img-thumbnail" alt="frontseats_1.jpg">
 frontseats_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/lancia/ypsilon/ypsilon/frontseats_2_xst.jpg" class="img-thumbnail" alt="frontseats_2.jpg">
 frontseats_2.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/lancia/ypsilon/ypsilon/interior_2_xst.jpg" class="img-thumbnail" alt="interior_2.jpg">
 interior_2.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/lancia/ypsilon/ypsilon/interior_3_xst.jpg" class="img-thumbnail" alt="interior_3.jpg">
 interior_3.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/lancia/ypsilon/ypsilon/main_1_xst.jpg" class="img-thumbnail" alt="main_1.jpg">
 main_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/lancia/ypsilon/ypsilon/rearlights_1_xst.jpeg" class="img-thumbnail" alt="rearlights_1.jpeg">
 rearlights_1.jpeg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/lancia/ypsilon/ypsilon/screens_1_xst.jpg" class="img-thumbnail" alt="screens_1.jpg">
 screens_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/lancia/ypsilon/ypsilon/screens_2_xst.png" class="img-thumbnail" alt="screens_2.png">
 screens_2.png
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/lancia/ypsilon/ypsilon/screens_3_xst.jpg" class="img-thumbnail" alt="screens_3.jpg">
 screens_3.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/lancia/ypsilon/ypsilon/screens_4_xst.jpg" class="img-thumbnail" alt="screens_4.jpg">
 screens_4.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/lancia/ypsilon/ypsilon/secondrowseats_1_xst.jpg" class="img-thumbnail" alt="secondrowseats_1.jpg">
 secondrowseats_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/lancia/ypsilon/ypsilon/trunk_1_xst.jpg" class="img-thumbnail" alt="trunk_1.jpg">
 trunk_1.jpg
-</div>
-</div>
 </div>

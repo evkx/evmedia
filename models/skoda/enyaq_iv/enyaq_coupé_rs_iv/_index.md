@@ -1,65 +1,61 @@
-<h1>models\skoda\enyaq_iv\enyaq_coupé_rs_iv</h1>
-<div class="container text-center">
-<div class="row">
-<div class="col col-lg-2 col-6">
+## models\skoda\enyaq_iv\enyaq_coupé_rs_iv
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/charging_1_xst.jpg" class="img-thumbnail" alt="charging_1.jpg">
 charging_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/exterior_1_xst.jpg" class="img-thumbnail" alt="exterior_1.jpg">
 exterior_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/exterior_2_xst.jpg" class="img-thumbnail" alt="exterior_2.jpg">
 exterior_2.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/frontseats_1_xst.jpg" class="img-thumbnail" alt="frontseats_1.jpg">
 frontseats_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/frontseats_2_xst.jpg" class="img-thumbnail" alt="frontseats_2.jpg">
 frontseats_2.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/interior_1_xst.jpg" class="img-thumbnail" alt="interior_1.jpg">
 interior_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/interior_2_xst.jpg" class="img-thumbnail" alt="interior_2.jpg">
 interior_2.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/interior_3_xst.jpg" class="img-thumbnail" alt="interior_3.jpg">
 interior_3.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/interior_4_xst.jpg" class="img-thumbnail" alt="interior_4.jpg">
 interior_4.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/main_1_xst.jpg" class="img-thumbnail" alt="main_1.jpg">
 main_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/screens_1_xst.jpg" class="img-thumbnail" alt="screens_1.jpg">
 screens_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/secondrowseats_1_xst.jpg" class="img-thumbnail" alt="secondrowseats_1.jpg">
 secondrowseats_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/trunk_1_xst.jpg" class="img-thumbnail" alt="trunk_1.jpg">
 trunk_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/trunk_2_xst.jpg" class="img-thumbnail" alt="trunk_2.jpg">
 trunk_2.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/skoda/enyaq_iv/enyaq_coupé_rs_iv/trunk_3_xst.jpg" class="img-thumbnail" alt="trunk_3.jpg">
 trunk_3.jpg
-</div>
-</div>
 </div>

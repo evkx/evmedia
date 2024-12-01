@@ -1,97 +1,93 @@
-<h1>models\audi\q6_e-tron\q6l_e-tron_quattro</h1>
-<div class="container text-center">
-<div class="row">
-<div class="col col-lg-2 col-6">
+## models\audi\q6_e-tron\q6l_e-tron_quattro
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/audi/q6_e-tron/q6l_e-tron_quattro/details_1_xst.jpg" class="img-thumbnail" alt="details_1.jpg">
 details_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/audi/q6_e-tron/q6l_e-tron_quattro/exterior_1_xst.jpg" class="img-thumbnail" alt="exterior_1.jpg">
 exterior_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/audi/q6_e-tron/q6l_e-tron_quattro/exterior_10_xst.jpg" class="img-thumbnail" alt="exterior_10.jpg">
 exterior_10.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/audi/q6_e-tron/q6l_e-tron_quattro/exterior_11_xst.jpg" class="img-thumbnail" alt="exterior_11.jpg">
 exterior_11.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/audi/q6_e-tron/q6l_e-tron_quattro/exterior_12_xst.jpg" class="img-thumbnail" alt="exterior_12.jpg">
 exterior_12.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/audi/q6_e-tron/q6l_e-tron_quattro/exterior_13_xst.jpg" class="img-thumbnail" alt="exterior_13.jpg">
 exterior_13.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/audi/q6_e-tron/q6l_e-tron_quattro/exterior_14_xst.jpg" class="img-thumbnail" alt="exterior_14.jpg">
 exterior_14.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/audi/q6_e-tron/q6l_e-tron_quattro/exterior_15_xst.jpg" class="img-thumbnail" alt="exterior_15.jpg">
 exterior_15.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/audi/q6_e-tron/q6l_e-tron_quattro/exterior_2_xst.jpg" class="img-thumbnail" alt="exterior_2.jpg">
 exterior_2.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/audi/q6_e-tron/q6l_e-tron_quattro/exterior_3_xst.jpg" class="img-thumbnail" alt="exterior_3.jpg">
 exterior_3.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/audi/q6_e-tron/q6l_e-tron_quattro/exterior_4_xst.jpg" class="img-thumbnail" alt="exterior_4.jpg">
 exterior_4.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/audi/q6_e-tron/q6l_e-tron_quattro/exterior_5_xst.jpg" class="img-thumbnail" alt="exterior_5.jpg">
 exterior_5.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/audi/q6_e-tron/q6l_e-tron_quattro/exterior_6_xst.jpg" class="img-thumbnail" alt="exterior_6.jpg">
 exterior_6.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/audi/q6_e-tron/q6l_e-tron_quattro/exterior_7_xst.jpg" class="img-thumbnail" alt="exterior_7.jpg">
 exterior_7.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/audi/q6_e-tron/q6l_e-tron_quattro/exterior_8_xst.jpg" class="img-thumbnail" alt="exterior_8.jpg">
 exterior_8.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/audi/q6_e-tron/q6l_e-tron_quattro/exterior_9_xst.jpg" class="img-thumbnail" alt="exterior_9.jpg">
 exterior_9.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/audi/q6_e-tron/q6l_e-tron_quattro/headlights_1_xst.jpg" class="img-thumbnail" alt="headlights_1.jpg">
 headlights_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/audi/q6_e-tron/q6l_e-tron_quattro/headlights_2_xst.jpg" class="img-thumbnail" alt="headlights_2.jpg">
 headlights_2.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/audi/q6_e-tron/q6l_e-tron_quattro/headlights_3_xst.jpg" class="img-thumbnail" alt="headlights_3.jpg">
 headlights_3.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/audi/q6_e-tron/q6l_e-tron_quattro/main_1_xst.jpg" class="img-thumbnail" alt="main_1.jpg">
 main_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/audi/q6_e-tron/q6l_e-tron_quattro/rearlights_1_xst.jpg" class="img-thumbnail" alt="rearlights_1.jpg">
 rearlights_1.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/audi/q6_e-tron/q6l_e-tron_quattro/rearlights_2_xst.jpg" class="img-thumbnail" alt="rearlights_2.jpg">
 rearlights_2.jpg
 </div>
-<div class="col col-lg-2 col-6">
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/audi/q6_e-tron/q6l_e-tron_quattro/rearlights_3_xst.jpg" class="img-thumbnail" alt="rearlights_3.jpg">
 rearlights_3.jpg
-</div>
-</div>
 </div>
