@@ -1,4 +1,5 @@
 ## models\chevrolet\silverado_ev\silverado_ev_4wt
+
 <style>
     .image-gallery {
         display: flex;

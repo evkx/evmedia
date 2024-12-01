@@ -1,4 +1,5 @@
 ## technology\sensorsandcameras\infrared
+
 <style>
     .image-gallery {
         display: flex;

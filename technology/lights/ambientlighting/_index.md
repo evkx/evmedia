@@ -1,4 +1,5 @@
 ## technology\lights\ambientlighting
+
 <style>
     .image-gallery {
         display: flex;

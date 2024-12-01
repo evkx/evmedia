@@ -1,4 +1,5 @@
 ## technology\battery\degradation
+
 <style>
     .image-gallery {
         display: flex;

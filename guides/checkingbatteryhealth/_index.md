@@ -1,4 +1,5 @@
 ## guides\checkingbatteryhealth
+
 <style>
     .image-gallery {
         display: flex;

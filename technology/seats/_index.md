@@ -1,4 +1,5 @@
 ## technology\seats
+
 <style>
     .image-gallery {
         display: flex;

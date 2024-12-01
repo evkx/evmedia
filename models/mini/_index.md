@@ -1,4 +1,5 @@
 ## models\mini
+
 <style>
     .image-gallery {
         display: flex;

@@ -1,4 +1,5 @@
 ## technology\infotainment\navigation
+
 <style>
     .image-gallery {
         display: flex;

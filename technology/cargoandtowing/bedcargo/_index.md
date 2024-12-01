@@ -1,4 +1,5 @@
 ## technology\cargoandtowing\bedcargo
+
 <style>
     .image-gallery {
         display: flex;

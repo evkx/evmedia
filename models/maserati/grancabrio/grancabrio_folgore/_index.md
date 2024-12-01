@@ -1,4 +1,5 @@
 ## models\maserati\grancabrio\grancabrio_folgore
+
 <style>
     .image-gallery {
         display: flex;

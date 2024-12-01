@@ -1,4 +1,5 @@
 ## technology\platforms
+
 <style>
     .image-gallery {
         display: flex;

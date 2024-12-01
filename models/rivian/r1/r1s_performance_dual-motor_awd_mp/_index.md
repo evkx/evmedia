@@ -1,4 +1,5 @@
 ## models\rivian\r1\r1s_performance_dual-motor_awd_mp
+
 <style>
     .image-gallery {
         display: flex;

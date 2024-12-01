@@ -1,4 +1,5 @@
 ## models\kia\ev6\ev6_standard_range_2wd
+
 <style>
     .image-gallery {
         display: flex;

@@ -1,4 +1,5 @@
 ## models\hyundai\kona\kona_standard_range
+
 <style>
     .image-gallery {
         display: flex;

@@ -1,4 +1,5 @@
 ## technology\driverassistance\forwardcollisionwarning
+
 <style>
     .image-gallery {
         display: flex;

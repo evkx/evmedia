@@ -1,4 +1,5 @@
 ## technology\userinterface\hud
+
 <style>
     .image-gallery {
         display: flex;

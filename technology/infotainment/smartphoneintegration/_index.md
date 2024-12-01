@@ -1,4 +1,5 @@
 ## technology\infotainment\smartphoneintegration
+
 <style>
     .image-gallery {
         display: flex;

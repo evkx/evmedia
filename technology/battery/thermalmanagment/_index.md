@@ -1,4 +1,5 @@
 ## technology\battery\thermalmanagment
+
 <style>
     .image-gallery {
         display: flex;

@@ -1,4 +1,5 @@
 ## models\maserati\grecale\grecale_folgore
+
 <style>
     .image-gallery {
         display: flex;

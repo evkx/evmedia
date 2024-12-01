@@ -1,4 +1,5 @@
 ## models\tesla\cybertruck\cybertruck_cyberbeast
+
 <style>
     .image-gallery {
         display: flex;

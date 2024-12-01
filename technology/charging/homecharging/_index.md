@@ -1,4 +1,5 @@
 ## technology\charging\homecharging
+
 <style>
     .image-gallery {
         display: flex;

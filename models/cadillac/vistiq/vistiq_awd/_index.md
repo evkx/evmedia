@@ -1,4 +1,5 @@
 ## models\cadillac\vistiq\vistiq_awd
+
 <style>
     .image-gallery {
         display: flex;

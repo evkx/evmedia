@@ -1,4 +1,5 @@
 ## technology\battery\charging
+
 <style>
     .image-gallery {
         display: flex;

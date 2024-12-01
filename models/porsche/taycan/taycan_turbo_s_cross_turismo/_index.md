@@ -1,4 +1,5 @@
 ## models\porsche\taycan\taycan_turbo_s_cross_turismo
+
 <style>
     .image-gallery {
         display: flex;
