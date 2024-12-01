@@ -28,6 +28,14 @@ exterior_6.jpg
 exterior_7.jpg
 </div>
 <div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
+<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_8_xst.jpg" class="img-thumbnail" alt="exterior_8.jpg">
+exterior_8.jpg
+</div>
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
+<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/exterior_9_xst.jpg" class="img-thumbnail" alt="exterior_9.jpg">
+exterior_9.jpg
+</div>
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/frontseats_1_xst.jpg" class="img-thumbnail" alt="frontseats_1.jpg">
 frontseats_1.jpg
 </div>
@@ -48,12 +56,20 @@ headlights_2.jpg
 interior_1.jpg
 </div>
 <div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
+<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/interior_2_xst.jpg" class="img-thumbnail" alt="interior_2.jpg">
+interior_2.jpg
+</div>
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/main_1_xst.jpg" class="img-thumbnail" alt="main_1.jpg">
 main_1.jpg
 </div>
 <div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/rearlights_1_xst.jpg" class="img-thumbnail" alt="rearlights_1.jpg">
 rearlights_1.jpg
+</div>
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
+<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/rearlights_2_xst.jpg" class="img-thumbnail" alt="rearlights_2.jpg">
+rearlights_2.jpg
 </div>
 <div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/screens_1_xst.jpg" class="img-thumbnail" alt="screens_1.jpg">
@@ -64,6 +80,18 @@ screens_1.jpg
 secondrowseats_1.jpg
 </div>
 <div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
+<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/secondrowseats_2_xst.jpg" class="img-thumbnail" alt="secondrowseats_2.jpg">
+secondrowseats_2.jpg
+</div>
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
+<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/trunk_1_xst.jpg" class="img-thumbnail" alt="trunk_1.jpg">
+trunk_1.jpg
+</div>
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
 <img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/wheels_1_xst.jpg" class="img-thumbnail" alt="wheels_1.jpg">
 wheels_1.jpg
+</div>
+<div class="col" style="display: inline-block; width: 16.66%; padding: 5px; box-sizing: border-box; text-align: center;">
+<img src="https://media.evkx.net/multimedia/models/bmw/i7/i7_m70_xdrive/wheels_2_xst.jpg" class="img-thumbnail" alt="wheels_2.jpg">
+wheels_2.jpg
 </div>
