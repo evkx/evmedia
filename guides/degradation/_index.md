@@ -4,21 +4,23 @@ flex-wrap: wrap;
 gap: 10px;
 justify-content: center;
 padding: 10px;" >
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/guides/degradation/dstcycles_st.png" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/guides/degradation/dstcycles_xst.png" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>dstcycles.png</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/guides/degradation/evstoragestress_st.png" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/guides/degradation/evstoragestress_xst.png" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>evstoragestress.png</p>
 </div>

@@ -4,39 +4,43 @@ flex-wrap: wrap;
 gap: 10px;
 justify-content: center;
 padding: 10px;" >
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/technology/userinterface/stalks/audicruisecontrol_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/technology/userinterface/stalks/audicruisecontrol_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>audicruisecontrol.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/technology/userinterface/stalks/blazergearstalk_1_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/technology/userinterface/stalks/blazergearstalk_1_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>blazergearstalk_1.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/technology/userinterface/stalks/stalkless_1_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/technology/userinterface/stalks/stalkless_1_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>stalkless_1.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/technology/userinterface/stalks/stalks_1_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/technology/userinterface/stalks/stalks_1_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>stalks_1.jpg</p>
 </div>

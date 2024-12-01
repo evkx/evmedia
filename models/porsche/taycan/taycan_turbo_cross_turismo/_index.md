@@ -4,300 +4,333 @@ flex-wrap: wrap;
 gap: 10px;
 justify-content: center;
 padding: 10px;" >
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/details_1_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/details_1_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>details_1.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/details_2_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/details_2_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>details_2.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/details_3_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/details_3_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>details_3.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/details_4_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/details_4_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>details_4.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/details_5_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/details_5_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>details_5.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/details_6_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/details_6_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>details_6.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/details_7_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/details_7_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>details_7.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/dynamic_1_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/dynamic_1_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>dynamic_1.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/dynamic_2_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/dynamic_2_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>dynamic_2.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/dynamic_3_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/dynamic_3_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>dynamic_3.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/dynamic_4_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/dynamic_4_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>dynamic_4.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/exterior_1_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/exterior_1_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>exterior_1.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/exterior_2_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/exterior_2_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>exterior_2.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/exterior_3_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/exterior_3_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>exterior_3.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/exterior_4_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/exterior_4_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>exterior_4.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/exterior_5_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/exterior_5_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>exterior_5.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/frontseats_1_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/frontseats_1_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>frontseats_1.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/frontseats_2_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/frontseats_2_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>frontseats_2.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/frontseats_3_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/frontseats_3_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>frontseats_3.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/headlights_1_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/headlights_1_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>headlights_1.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/headlights_2_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/headlights_2_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>headlights_2.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/headlights_3_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/headlights_3_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>headlights_3.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/interior_1_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/interior_1_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>interior_1.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/interior_2_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/interior_2_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>interior_2.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/main_1_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/main_1_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>main_1.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/rearlights_1_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/rearlights_1_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>rearlights_1.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/rearlights_2_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/rearlights_2_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>rearlights_2.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/roof_1_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/roof_1_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>roof_1.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/screens_1_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/screens_1_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>screens_1.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/screens_2_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/screens_2_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>screens_2.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/screens_3_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/screens_3_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>screens_3.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/secondrowseats_1_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/secondrowseats_1_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>secondrowseats_1.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/wheels_1_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/porsche/taycan/taycan_turbo_cross_turismo/wheels_1_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>wheels_1.jpg</p>
 </div>

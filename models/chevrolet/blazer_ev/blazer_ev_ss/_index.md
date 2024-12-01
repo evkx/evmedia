@@ -4,246 +4,273 @@ flex-wrap: wrap;
 gap: 10px;
 justify-content: center;
 padding: 10px;" >
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/chargeport_1_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/chargeport_1_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>chargeport_1.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/exterior_1_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/exterior_1_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>exterior_1.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/exterior_2_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/exterior_2_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>exterior_2.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/exterior_3_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/exterior_3_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>exterior_3.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/exterior_4_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/exterior_4_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>exterior_4.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/exterior_5_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/exterior_5_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>exterior_5.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/exterior_6_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/exterior_6_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>exterior_6.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/frontseats_1_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/frontseats_1_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>frontseats_1.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/handle_1_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/handle_1_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>handle_1.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/headlights_1_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/headlights_1_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>headlights_1.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/headlights_2_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/headlights_2_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>headlights_2.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/interior_1_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/interior_1_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>interior_1.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/interior_2_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/interior_2_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>interior_2.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/interior_3_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/interior_3_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>interior_3.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/interior_4_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/interior_4_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>interior_4.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/interior_5_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/interior_5_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>interior_5.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/interior_6_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/interior_6_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>interior_6.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/main_1_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/main_1_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>main_1.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/mirror_1_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/mirror_1_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>mirror_1.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/mirror_2_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/mirror_2_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>mirror_2.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/regenpaddles_1_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/regenpaddles_1_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>regenpaddles_1.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/roof_1_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/roof_1_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>roof_1.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/screens_1_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/screens_1_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>screens_1.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/screens_2_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/screens_2_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>screens_2.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/screens_3_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/screens_3_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>screens_3.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/trunk_1_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/trunk_1_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>trunk_1.jpg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/vents_1_st.jpg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/chevrolet/blazer_ev/blazer_ev_ss/vents_1_xst.jpg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>vents_1.jpg</p>
 </div>

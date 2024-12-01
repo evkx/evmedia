@@ -4,21 +4,23 @@ flex-wrap: wrap;
 gap: 10px;
 justify-content: center;
 padding: 10px;" >
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/opel/brandevs_st.jpeg" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/opel/brandevs_xst.jpeg" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>brandevs.jpeg</p>
 </div>
-<div style="  flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
+<div style="flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
         max-width: 150px;
         text-align: center;" >
-<img src="https://media.evkx.net/multimedia/models/opel/logo_st.png" style="    flex: 1 1 calc(33.333% - 20px); /* Three images per row on large screens */
-    max-width: 150px;
-    text-align: center;
+<img src="https://media.evkx.net/multimedia/models/opel/logo_xst.png" style="width: 150px;
+height: auto;
+border: 1px solid #ddd;
+border-radius: 5px;
   ">
 <p>logo.png</p>
 </div>
