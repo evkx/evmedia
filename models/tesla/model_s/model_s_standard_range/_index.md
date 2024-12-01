@@ -1,5 +1,6 @@
 ## models\tesla\model_s\model_s_standard_range
 
+
 <style>
     .image-gallery {
         display: flex;

@@ -1,5 +1,6 @@
 ## technology\userinterface\mirrors
 
+
 <style>
     .image-gallery {
         display: flex;

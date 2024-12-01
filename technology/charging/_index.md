@@ -1,5 +1,6 @@
 ## technology\charging
 
+
 <style>
     .image-gallery {
         display: flex;

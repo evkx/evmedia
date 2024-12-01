@@ -1,5 +1,6 @@
 ## models\hyundai\ioniq_9\ioniq_9_awd_long_range
 
+
 <style>
     .image-gallery {
         display: flex;

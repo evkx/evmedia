@@ -1,5 +1,6 @@
 ## technology\charging\connectors
 
+
 <style>
     .image-gallery {
         display: flex;

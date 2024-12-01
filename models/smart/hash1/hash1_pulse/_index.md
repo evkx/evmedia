@@ -1,5 +1,6 @@
 ## models\smart\hash1\hash1_pulse
 
+
 <style>
     .image-gallery {
         display: flex;

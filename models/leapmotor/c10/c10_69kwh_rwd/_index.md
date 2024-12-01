@@ -1,5 +1,6 @@
 ## models\leapmotor\c10\c10_69kwh_rwd
 
+
 <style>
     .image-gallery {
         display: flex;

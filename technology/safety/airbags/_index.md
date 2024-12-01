@@ -1,5 +1,6 @@
 ## technology\safety\airbags
 
+
 <style>
     .image-gallery {
         display: flex;

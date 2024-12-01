@@ -1,5 +1,6 @@
 ## technology\battery\batterymanagement
 
+
 <style>
     .image-gallery {
         display: flex;

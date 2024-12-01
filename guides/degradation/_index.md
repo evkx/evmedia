@@ -1,5 +1,6 @@
 ## guides\degradation
 
+
 <style>
     .image-gallery {
         display: flex;

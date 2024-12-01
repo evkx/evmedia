@@ -1,5 +1,6 @@
 ## technology\battery\manufactors
 
+
 <style>
     .image-gallery {
         display: flex;

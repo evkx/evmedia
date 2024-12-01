@@ -1,5 +1,6 @@
 ## technology\safety
 
+
 <style>
     .image-gallery {
         display: flex;

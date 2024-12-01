@@ -1,5 +1,6 @@
 ## models\vinfast\vf8\vf8_plus
 
+
 <style>
     .image-gallery {
         display: flex;

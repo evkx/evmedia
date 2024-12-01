@@ -1,5 +1,6 @@
 ## technology\seats\adjustment
 
+
 <style>
     .image-gallery {
         display: flex;

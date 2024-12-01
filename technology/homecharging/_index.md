@@ -1,5 +1,6 @@
 ## technology\homecharging
 
+
 <style>
     .image-gallery {
         display: flex;

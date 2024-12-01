@@ -1,5 +1,6 @@
 ## models\tesla\cybertruck\cybertruck_awd
 
+
 <style>
     .image-gallery {
         display: flex;

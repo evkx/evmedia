@@ -1,5 +1,6 @@
 ## models\kia\ev6\ev6_long_range_2wd
 
+
 <style>
     .image-gallery {
         display: flex;

@@ -1,5 +1,6 @@
 ## technology\battery
 
+
 <style>
     .image-gallery {
         display: flex;

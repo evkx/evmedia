@@ -1,5 +1,6 @@
 ## models\chevrolet\blazer_ev\blazer_ev_ss
 
+
 <style>
     .image-gallery {
         display: flex;

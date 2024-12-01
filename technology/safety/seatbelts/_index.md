@@ -1,5 +1,6 @@
 ## technology\safety\seatbelts
 
+
 <style>
     .image-gallery {
         display: flex;

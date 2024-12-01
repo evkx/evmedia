@@ -1,5 +1,6 @@
 ## models\gmc\sierra_ev\sierra_ev_denali_edition_1
 
+
 <style>
     .image-gallery {
         display: flex;
