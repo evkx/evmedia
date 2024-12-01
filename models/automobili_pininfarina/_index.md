@@ -1,6 +1,3 @@
-## models\automobili_pininfarina
-
-
 <style>
     .image-gallery {
         display: flex;

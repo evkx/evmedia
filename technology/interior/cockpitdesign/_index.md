@@ -1,6 +1,3 @@
-## technology\interior\cockpitdesign
-
-
 <style>
     .image-gallery {
         display: flex;

@@ -1,6 +1,3 @@
-## models\byd\tang\tang_4x4_long_range
-
-
 <style>
     .image-gallery {
         display: flex;

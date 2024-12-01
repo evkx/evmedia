@@ -1,6 +1,3 @@
-## models\lucid\air\air_dream_edition_range
-
-
 <style>
     .image-gallery {
         display: flex;

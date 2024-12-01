@@ -1,6 +1,3 @@
-## technology\motors\pmsm
-
-
 <style>
     .image-gallery {
         display: flex;

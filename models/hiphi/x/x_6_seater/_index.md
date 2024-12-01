@@ -1,6 +1,3 @@
-## models\hiphi\x\x_6_seater
-
-
 <style>
     .image-gallery {
         display: flex;

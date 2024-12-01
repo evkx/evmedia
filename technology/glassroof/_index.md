@@ -1,6 +1,3 @@
-## technology\glassroof
-
-
 <style>
     .image-gallery {
         display: flex;

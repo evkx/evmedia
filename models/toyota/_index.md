@@ -1,6 +1,3 @@
-## models\toyota
-
-
 <style>
     .image-gallery {
         display: flex;

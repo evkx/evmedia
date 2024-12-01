@@ -1,6 +1,3 @@
-## models\mg
-
-
 <style>
     .image-gallery {
         display: flex;

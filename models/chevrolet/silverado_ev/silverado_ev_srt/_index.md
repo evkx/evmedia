@@ -1,6 +1,3 @@
-## models\chevrolet\silverado_ev\silverado_ev_srt
-
-
 <style>
     .image-gallery {
         display: flex;

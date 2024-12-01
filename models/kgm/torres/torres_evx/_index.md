@@ -1,6 +1,3 @@
-## models\kgm\torres\torres_evx
-
-
 <style>
     .image-gallery {
         display: flex;

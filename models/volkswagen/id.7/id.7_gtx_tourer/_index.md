@@ -1,6 +1,3 @@
-## models\volkswagen\id.7\id.7_gtx_tourer
-
-
 <style>
     .image-gallery {
         display: flex;

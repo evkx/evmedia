@@ -1,6 +1,3 @@
-## technology\charging\bidirectional
-
-
 <style>
     .image-gallery {
         display: flex;

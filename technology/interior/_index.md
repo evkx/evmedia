@@ -1,6 +1,3 @@
-## technology\interior
-
-
 <style>
     .image-gallery {
         display: flex;

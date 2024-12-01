@@ -1,6 +1,3 @@
-## models\opel\astra\astra_electric
-
-
 <style>
     .image-gallery {
         display: flex;

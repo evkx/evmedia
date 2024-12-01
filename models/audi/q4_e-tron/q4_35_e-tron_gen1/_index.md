@@ -1,6 +1,3 @@
-## models\audi\q4_e-tron\q4_35_e-tron_gen1
-
-
 <style>
     .image-gallery {
         display: flex;

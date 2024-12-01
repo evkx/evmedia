@@ -1,6 +1,3 @@
-## models\volvo\xc40\xc40_recharge_single_motor_er
-
-
 <style>
     .image-gallery {
         display: flex;

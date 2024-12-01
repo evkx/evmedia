@@ -1,6 +1,3 @@
-## technology\battery\batterypack
-
-
 <style>
     .image-gallery {
         display: flex;

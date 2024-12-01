@@ -1,6 +1,3 @@
-## models\cupra\born\born_77_e-boost
-
-
 <style>
     .image-gallery {
         display: flex;

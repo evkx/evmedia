@@ -1,6 +1,3 @@
-## models\mg\mg4\mg4_electric_standard
-
-
 <style>
     .image-gallery {
         display: flex;

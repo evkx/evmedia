@@ -1,6 +1,3 @@
-## models\smart
-
-
 <style>
     .image-gallery {
         display: flex;

@@ -1,6 +1,3 @@
-## models\volkswagen\id.3\id.3_pro
-
-
 <style>
     .image-gallery {
         display: flex;

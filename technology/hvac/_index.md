@@ -1,6 +1,3 @@
-## technology\hvac
-
-
 <style>
     .image-gallery {
         display: flex;

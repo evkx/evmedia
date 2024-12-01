@@ -1,6 +1,3 @@
-## models\fisker\ocean\ocean_ultra
-
-
 <style>
     .image-gallery {
         display: flex;

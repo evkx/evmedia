@@ -1,6 +1,3 @@
-## models\mercedes\eqe\eqe_43_4matic
-
-
 <style>
     .image-gallery {
         display: flex;

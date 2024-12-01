@@ -1,6 +1,3 @@
-## models\porsche\taycan\taycan_turbo_gt_weissach
-
-
 <style>
     .image-gallery {
         display: flex;

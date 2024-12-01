@@ -1,6 +1,3 @@
-## technology\cargoandtowing\towing
-
-
 <style>
     .image-gallery {
         display: flex;

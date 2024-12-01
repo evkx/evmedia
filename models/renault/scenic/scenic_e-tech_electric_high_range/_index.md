@@ -1,6 +1,3 @@
-## models\renault\scenic\scenic_e-tech_electric_high_range
-
-
 <style>
     .image-gallery {
         display: flex;

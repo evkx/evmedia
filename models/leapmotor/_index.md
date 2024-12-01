@@ -1,6 +1,3 @@
-## models\leapmotor
-
-
 <style>
     .image-gallery {
         display: flex;

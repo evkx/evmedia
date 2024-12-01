@@ -1,6 +1,3 @@
-## technology\lights\headlights
-
-
 <style>
     .image-gallery {
         display: flex;

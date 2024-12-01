@@ -1,6 +1,3 @@
-## models\citroën\ë-c3\ë-c3
-
-
 <style>
     .image-gallery {
         display: flex;

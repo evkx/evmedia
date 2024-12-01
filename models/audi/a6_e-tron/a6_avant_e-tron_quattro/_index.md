@@ -1,6 +1,3 @@
-## models\audi\a6_e-tron\a6_avant_e-tron_quattro
-
-
 <style>
     .image-gallery {
         display: flex;

@@ -1,6 +1,3 @@
-## models\volvo\ex30\ex30_twin_motor_performance
-
-
 <style>
     .image-gallery {
         display: flex;

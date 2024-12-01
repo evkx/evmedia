@@ -1,6 +1,3 @@
-## models\porsche\macan\macan
-
-
 <style>
     .image-gallery {
         display: flex;

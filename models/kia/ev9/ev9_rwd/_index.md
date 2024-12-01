@@ -1,6 +1,3 @@
-## models\kia\ev9\ev9_rwd
-
-
 <style>
     .image-gallery {
         display: flex;

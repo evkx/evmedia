@@ -1,6 +1,3 @@
-## models\lexus\rz\rz_450e
-
-
 <style>
     .image-gallery {
         display: flex;

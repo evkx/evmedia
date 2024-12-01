@@ -1,6 +1,3 @@
-## technology\userinterface\buttons
-
-
 <style>
     .image-gallery {
         display: flex;

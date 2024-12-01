@@ -1,6 +1,3 @@
-## models\omoda
-
-
 <style>
     .image-gallery {
         display: flex;

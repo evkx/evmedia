@@ -1,6 +1,3 @@
-## models\xpeng\g3\g3i
-
-
 <style>
     .image-gallery {
         display: flex;

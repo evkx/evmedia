@@ -1,6 +1,3 @@
-## models\cadillac\escalade\escalade_iq
-
-
 <style>
     .image-gallery {
         display: flex;

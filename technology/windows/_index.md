@@ -1,6 +1,3 @@
-## technology\windows
-
-
 <style>
     .image-gallery {
         display: flex;

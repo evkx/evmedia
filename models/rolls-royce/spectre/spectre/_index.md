@@ -1,6 +1,3 @@
-## models\rolls-royce\spectre\spectre
-
-
 <style>
     .image-gallery {
         display: flex;

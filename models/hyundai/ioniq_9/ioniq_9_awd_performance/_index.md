@@ -1,6 +1,3 @@
-## models\hyundai\ioniq_9\ioniq_9_awd_performance
-
-
 <style>
     .image-gallery {
         display: flex;

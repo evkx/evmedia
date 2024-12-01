@@ -1,6 +1,3 @@
-## models\volvo\c40\C40_recharge_twin_motor
-
-
 <style>
     .image-gallery {
         display: flex;

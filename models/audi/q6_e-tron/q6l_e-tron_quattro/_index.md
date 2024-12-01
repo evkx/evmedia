@@ -1,6 +1,3 @@
-## models\audi\q6_e-tron\q6l_e-tron_quattro
-
-
 <style>
     .image-gallery {
         display: flex;

@@ -1,6 +1,3 @@
-## models\chevrolet\equinox_ev\equinox_ev_awd
-
-
 <style>
     .image-gallery {
         display: flex;

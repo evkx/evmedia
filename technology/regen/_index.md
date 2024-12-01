@@ -1,6 +1,3 @@
-## technology\regen
-
-
 <style>
     .image-gallery {
         display: flex;

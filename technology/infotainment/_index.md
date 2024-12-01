@@ -1,6 +1,3 @@
-## technology\infotainment
-
-
 <style>
     .image-gallery {
         display: flex;

@@ -1,6 +1,3 @@
-## models\nissan\ariya\ariya_63kwh
-
-
 <style>
     .image-gallery {
         display: flex;

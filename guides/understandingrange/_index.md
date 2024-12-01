@@ -1,6 +1,3 @@
-## guides\understandingrange
-
-
 <style>
     .image-gallery {
         display: flex;

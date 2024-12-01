@@ -1,6 +1,3 @@
-## technology\battery\batterysystem
-
-
 <style>
     .image-gallery {
         display: flex;

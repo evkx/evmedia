@@ -1,6 +1,3 @@
-## models\byd\han\han
-
-
 <style>
     .image-gallery {
         display: flex;

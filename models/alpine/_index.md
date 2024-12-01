@@ -1,6 +1,3 @@
-## models\alpine
-
-
 <style>
     .image-gallery {
         display: flex;

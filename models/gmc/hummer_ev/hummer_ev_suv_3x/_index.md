@@ -1,6 +1,3 @@
-## models\gmc\hummer_ev\hummer_ev_suv_3x
-
-
 <style>
     .image-gallery {
         display: flex;

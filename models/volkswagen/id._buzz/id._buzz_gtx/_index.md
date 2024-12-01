@@ -1,6 +1,3 @@
-## models\volkswagen\id._buzz\id._buzz_gtx
-
-
 <style>
     .image-gallery {
         display: flex;

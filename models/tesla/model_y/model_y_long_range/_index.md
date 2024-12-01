@@ -1,6 +1,3 @@
-## models\tesla\model_y\model_y_long_range
-
-
 <style>
     .image-gallery {
         display: flex;

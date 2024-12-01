@@ -1,6 +1,3 @@
-## models\genesis\gv70\electrified_gv70
-
-
 <style>
     .image-gallery {
         display: flex;

@@ -1,6 +1,3 @@
-## models\kgm
-
-
 <style>
     .image-gallery {
         display: flex;

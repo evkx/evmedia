@@ -1,6 +1,3 @@
-## models\xpeng\g6\g6_rwd_long_range
-
-
 <style>
     .image-gallery {
         display: flex;

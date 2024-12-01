@@ -1,6 +1,3 @@
-## models\bmw\ix\ix_m60
-
-
 <style>
     .image-gallery {
         display: flex;

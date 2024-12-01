@@ -1,6 +1,3 @@
-## technology\suspension
-
-
 <style>
     .image-gallery {
         display: flex;

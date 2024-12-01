@@ -1,6 +1,3 @@
-## models\nissan
-
-
 <style>
     .image-gallery {
         display: flex;

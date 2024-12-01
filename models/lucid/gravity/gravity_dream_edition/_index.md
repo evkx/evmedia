@@ -1,6 +1,3 @@
-## models\lucid\gravity\gravity_dream_edition
-
-
 <style>
     .image-gallery {
         display: flex;

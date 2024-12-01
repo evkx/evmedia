@@ -1,6 +1,3 @@
-## models\volvo\ec40\ec40_single_motor_er
-
-
 <style>
     .image-gallery {
         display: flex;

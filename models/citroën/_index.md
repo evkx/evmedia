@@ -1,6 +1,3 @@
-## models\citroën
-
-
 <style>
     .image-gallery {
         display: flex;

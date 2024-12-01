@@ -1,6 +1,3 @@
-## models\ford\f150_lightning\f150_lightning_extended_range
-
-
 <style>
     .image-gallery {
         display: flex;

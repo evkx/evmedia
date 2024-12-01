@@ -1,6 +1,3 @@
-## models\kia\ev6\ev6_standard_range_awd
-
-
 <style>
     .image-gallery {
         display: flex;

@@ -1,6 +1,3 @@
-## models\skoda\elroq\elroq_60
-
-
 <style>
     .image-gallery {
         display: flex;

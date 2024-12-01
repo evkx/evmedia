@@ -1,6 +1,3 @@
-## models\dacia
-
-
 <style>
     .image-gallery {
         display: flex;

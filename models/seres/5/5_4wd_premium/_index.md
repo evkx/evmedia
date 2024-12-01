@@ -1,6 +1,3 @@
-## models\seres\5\5_4wd_premium
-
-
 <style>
     .image-gallery {
         display: flex;

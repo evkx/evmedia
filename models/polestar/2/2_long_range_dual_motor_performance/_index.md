@@ -1,6 +1,3 @@
-## models\polestar\2\2_long_range_dual_motor_performance
-
-
 <style>
     .image-gallery {
         display: flex;

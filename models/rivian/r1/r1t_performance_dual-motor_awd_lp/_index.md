@@ -1,6 +1,3 @@
-## models\rivian\r1\r1t_performance_dual-motor_awd_lp
-
-
 <style>
     .image-gallery {
         display: flex;

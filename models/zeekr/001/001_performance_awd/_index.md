@@ -1,6 +1,3 @@
-## models\zeekr\001\001_performance_awd
-
-
 <style>
     .image-gallery {
         display: flex;

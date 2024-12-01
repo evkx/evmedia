@@ -1,6 +1,3 @@
-## models\mercedes\eqb\eqb_350_4matic
-
-
 <style>
     .image-gallery {
         display: flex;

@@ -1,6 +1,3 @@
-## models\audi\q8_e-tron\q8_sportback_50_e-tron
-
-
 <style>
     .image-gallery {
         display: flex;

@@ -1,6 +1,3 @@
-## models\alfa_romeo
-
-
 <style>
     .image-gallery {
         display: flex;

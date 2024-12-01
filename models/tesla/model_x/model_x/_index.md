@@ -1,6 +1,3 @@
-## models\tesla\model_x\model_x
-
-
 <style>
     .image-gallery {
         display: flex;

@@ -1,6 +1,3 @@
-## models\hyundai\ioniq_6\ioniq_6_long_range_awd
-
-
 <style>
     .image-gallery {
         display: flex;

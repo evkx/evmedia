@@ -1,6 +1,3 @@
-## models\mercedes\eqa\eqa_250plus
-
-
 <style>
     .image-gallery {
         display: flex;

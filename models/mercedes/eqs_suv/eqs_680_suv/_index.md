@@ -1,6 +1,3 @@
-## models\mercedes\eqs_suv\eqs_680_suv
-
-
 <style>
     .image-gallery {
         display: flex;

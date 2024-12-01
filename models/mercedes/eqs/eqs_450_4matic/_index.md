@@ -1,6 +1,3 @@
-## models\mercedes\eqs\eqs_450_4matic
-
-
 <style>
     .image-gallery {
         display: flex;

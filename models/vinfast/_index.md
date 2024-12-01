@@ -1,6 +1,3 @@
-## models\vinfast
-
-
 <style>
     .image-gallery {
         display: flex;

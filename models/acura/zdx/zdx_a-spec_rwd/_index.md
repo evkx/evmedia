@@ -1,6 +1,3 @@
-## models\acura\zdx\zdx_a-spec_rwd
-
-
 <style>
     .image-gallery {
         display: flex;

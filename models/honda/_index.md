@@ -1,6 +1,3 @@
-## models\honda
-
-
 <style>
     .image-gallery {
         display: flex;

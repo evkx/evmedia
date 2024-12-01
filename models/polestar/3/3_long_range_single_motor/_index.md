@@ -1,6 +1,3 @@
-## models\polestar\3\3_long_range_single_motor
-
-
 <style>
     .image-gallery {
         display: flex;

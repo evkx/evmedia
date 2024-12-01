@@ -1,6 +1,3 @@
-## models\xpeng\g6\g6_awd_performance
-
-
 <style>
     .image-gallery {
         display: flex;

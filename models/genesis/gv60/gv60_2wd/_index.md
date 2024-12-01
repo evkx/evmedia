@@ -1,6 +1,3 @@
-## models\genesis\gv60\gv60_2wd
-
-
 <style>
     .image-gallery {
         display: flex;

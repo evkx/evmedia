@@ -1,6 +1,3 @@
-## models\rolls-royce
-
-
 <style>
     .image-gallery {
         display: flex;

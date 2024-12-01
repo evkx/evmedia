@@ -1,6 +1,3 @@
-## technology\driverassistance\frontcrosstrafficassist
-
-
 <style>
     .image-gallery {
         display: flex;

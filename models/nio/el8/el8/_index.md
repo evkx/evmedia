@@ -1,6 +1,3 @@
-## models\nio\el8\el8
-
-
 <style>
     .image-gallery {
         display: flex;

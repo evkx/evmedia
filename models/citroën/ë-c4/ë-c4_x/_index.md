@@ -1,6 +1,3 @@
-## models\citroën\ë-c4\ë-c4_x
-
-
 <style>
     .image-gallery {
         display: flex;

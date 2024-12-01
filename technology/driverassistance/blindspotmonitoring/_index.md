@@ -1,6 +1,3 @@
-## technology\driverassistance\blindspotmonitoring
-
-
 <style>
     .image-gallery {
         display: flex;

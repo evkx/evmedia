@@ -1,6 +1,3 @@
-## models\xpeng\p7plus\p7plus_long_range
-
-
 <style>
     .image-gallery {
         display: flex;

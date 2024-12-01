@@ -1,6 +1,3 @@
-## models\volkswagen\id.4\id.4_pro_performance
-
-
 <style>
     .image-gallery {
         display: flex;

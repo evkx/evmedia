@@ -1,6 +1,3 @@
-## models\tesla\model_y\model_y_performance
-
-
 <style>
     .image-gallery {
         display: flex;

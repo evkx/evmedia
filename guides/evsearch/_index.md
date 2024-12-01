@@ -1,6 +1,3 @@
-## guides\evsearch
-
-
 <style>
     .image-gallery {
         display: flex;

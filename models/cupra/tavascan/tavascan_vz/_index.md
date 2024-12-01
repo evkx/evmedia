@@ -1,6 +1,3 @@
-## models\cupra\tavascan\tavascan_vz
-
-
 <style>
     .image-gallery {
         display: flex;

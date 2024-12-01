@@ -1,6 +1,3 @@
-## models\volkswagen
-
-
 <style>
     .image-gallery {
         display: flex;

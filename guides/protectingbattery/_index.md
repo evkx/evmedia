@@ -1,6 +1,3 @@
-## guides\protectingbattery
-
-
 <style>
     .image-gallery {
         display: flex;

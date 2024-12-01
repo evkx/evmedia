@@ -1,6 +1,3 @@
-## models\hyundai\kona\kona_long_range
-
-
 <style>
     .image-gallery {
         display: flex;

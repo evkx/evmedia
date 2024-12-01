@@ -1,6 +1,3 @@
-## models\kia\ev6\ev6_gt
-
-
 <style>
     .image-gallery {
         display: flex;

@@ -1,6 +1,3 @@
-## models\skoda\enyaq_iv\enyaq_coupé_rs_iv
-
-
 <style>
     .image-gallery {
         display: flex;

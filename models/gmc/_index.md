@@ -1,6 +1,3 @@
-## models\gmc
-
-
 <style>
     .image-gallery {
         display: flex;

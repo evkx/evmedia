@@ -1,6 +1,3 @@
-## models\bmw\i5\i5_m60_xdrive
-
-
 <style>
     .image-gallery {
         display: flex;

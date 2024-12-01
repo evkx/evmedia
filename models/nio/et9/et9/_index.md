@@ -1,6 +1,3 @@
-## models\nio\et9\et9
-
-
 <style>
     .image-gallery {
         display: flex;

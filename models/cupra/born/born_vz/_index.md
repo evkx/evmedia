@@ -1,6 +1,3 @@
-## models\cupra\born\born_vz
-
-
 <style>
     .image-gallery {
         display: flex;

@@ -1,6 +1,3 @@
-## models\mhero
-
-
 <style>
     .image-gallery {
         display: flex;

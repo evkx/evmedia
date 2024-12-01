@@ -1,6 +1,3 @@
-## models\byd\tang\tang_ev600
-
-
 <style>
     .image-gallery {
         display: flex;

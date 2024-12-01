@@ -1,6 +1,3 @@
-## models\hiphi\z\z_5_seater
-
-
 <style>
     .image-gallery {
         display: flex;

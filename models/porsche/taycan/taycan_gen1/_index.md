@@ -1,6 +1,3 @@
-## models\porsche\taycan\taycan_gen1
-
-
 <style>
     .image-gallery {
         display: flex;

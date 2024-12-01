@@ -1,6 +1,3 @@
-## models\porsche\taycan\taycan_gts_sport_turismo
-
-
 <style>
     .image-gallery {
         display: flex;

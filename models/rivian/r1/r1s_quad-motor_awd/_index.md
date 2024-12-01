@@ -1,6 +1,3 @@
-## models\rivian\r1\r1s_quad-motor_awd
-
-
 <style>
     .image-gallery {
         display: flex;

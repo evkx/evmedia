@@ -1,6 +1,3 @@
-## models\bmw\ix\ix_xdrive50
-
-
 <style>
     .image-gallery {
         display: flex;

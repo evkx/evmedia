@@ -1,6 +1,3 @@
-## models\porsche\taycan\taycan_turbo
-
-
 <style>
     .image-gallery {
         display: flex;

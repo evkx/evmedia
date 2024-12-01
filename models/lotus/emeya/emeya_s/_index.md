@@ -1,6 +1,3 @@
-## models\lotus\emeya\emeya_s
-
-
 <style>
     .image-gallery {
         display: flex;

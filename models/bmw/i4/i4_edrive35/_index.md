@@ -1,6 +1,3 @@
-## models\bmw\i4\i4_edrive35
-
-
 <style>
     .image-gallery {
         display: flex;

@@ -1,6 +1,3 @@
-## models\seres
-
-
 <style>
     .image-gallery {
         display: flex;

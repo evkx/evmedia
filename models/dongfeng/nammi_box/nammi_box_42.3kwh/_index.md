@@ -1,6 +1,3 @@
-## models\dongfeng\nammi_box\nammi_box_42.3kwh
-
-
 <style>
     .image-gallery {
         display: flex;

@@ -1,6 +1,3 @@
-## models\kia\ev3\ev3_long_range
-
-
 <style>
     .image-gallery {
         display: flex;

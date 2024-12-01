@@ -1,6 +1,3 @@
-## models\lotus\eletre\eletre
-
-
 <style>
     .image-gallery {
         display: flex;

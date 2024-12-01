@@ -1,6 +1,3 @@
-## models\ford\mustang_mach-e\mustang_mach-e_standard_range_rwd
-
-
 <style>
     .image-gallery {
         display: flex;

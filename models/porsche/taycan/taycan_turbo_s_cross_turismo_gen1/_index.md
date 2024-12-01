@@ -1,6 +1,3 @@
-## models\porsche\taycan\taycan_turbo_s_cross_turismo_gen1
-
-
 <style>
     .image-gallery {
         display: flex;

@@ -1,6 +1,3 @@
-## models\mini\cooper\cooper_se
-
-
 <style>
     .image-gallery {
         display: flex;

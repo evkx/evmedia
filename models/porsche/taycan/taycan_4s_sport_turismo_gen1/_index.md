@@ -1,6 +1,3 @@
-## models\porsche\taycan\taycan_4s_sport_turismo_gen1
-
-
 <style>
     .image-gallery {
         display: flex;

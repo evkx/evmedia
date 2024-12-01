@@ -1,6 +1,3 @@
-## models\byd
-
-
 <style>
     .image-gallery {
         display: flex;

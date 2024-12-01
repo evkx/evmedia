@@ -1,6 +1,3 @@
-## models\fiat
-
-
 <style>
     .image-gallery {
         display: flex;

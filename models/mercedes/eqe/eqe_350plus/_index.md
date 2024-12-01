@@ -1,6 +1,3 @@
-## models\mercedes\eqe\eqe_350plus
-
-
 <style>
     .image-gallery {
         display: flex;

@@ -1,6 +1,3 @@
-## models\fisker\ocean\ocean_sport
-
-
 <style>
     .image-gallery {
         display: flex;

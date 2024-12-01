@@ -1,6 +1,3 @@
-## models\lexus\rz\rz_300e
-
-
 <style>
     .image-gallery {
         display: flex;

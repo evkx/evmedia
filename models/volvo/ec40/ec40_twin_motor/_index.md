@@ -1,6 +1,3 @@
-## models\volvo\ec40\ec40_twin_motor
-
-
 <style>
     .image-gallery {
         display: flex;

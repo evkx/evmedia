@@ -1,6 +1,3 @@
-## models\smart\hash3\hash3_brabus
-
-
 <style>
     .image-gallery {
         display: flex;

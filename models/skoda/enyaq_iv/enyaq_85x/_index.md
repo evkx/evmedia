@@ -1,6 +1,3 @@
-## models\skoda\enyaq_iv\enyaq_85x
-
-
 <style>
     .image-gallery {
         display: flex;

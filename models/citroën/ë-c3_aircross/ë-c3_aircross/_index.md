@@ -1,6 +1,3 @@
-## models\citroën\ë-c3_aircross\ë-c3_aircross
-
-
 <style>
     .image-gallery {
         display: flex;

@@ -1,6 +1,3 @@
-## models\bmw\i4\i4_m50
-
-
 <style>
     .image-gallery {
         display: flex;

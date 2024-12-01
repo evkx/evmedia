@@ -1,6 +1,3 @@
-## technology\seats\types
-
-
 <style>
     .image-gallery {
         display: flex;

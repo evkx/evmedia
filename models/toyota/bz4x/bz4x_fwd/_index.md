@@ -1,6 +1,3 @@
-## models\toyota\bz4x\bz4x_fwd
-
-
 <style>
     .image-gallery {
         display: flex;

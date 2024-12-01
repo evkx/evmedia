@@ -1,6 +1,3 @@
-## models\rivian
-
-
 <style>
     .image-gallery {
         display: flex;

@@ -1,6 +1,3 @@
-## models\fiat\600e\600e
-
-
 <style>
     .image-gallery {
         display: flex;

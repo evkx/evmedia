@@ -1,6 +1,3 @@
-## models\hongqi\e-hs9\e-hs9_exclusive
-
-
 <style>
     .image-gallery {
         display: flex;

@@ -1,6 +1,3 @@
-## models\alfa_romeo\junior\junior_veloce
-
-
 <style>
     .image-gallery {
         display: flex;

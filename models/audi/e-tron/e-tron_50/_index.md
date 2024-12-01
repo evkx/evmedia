@@ -1,6 +1,3 @@
-## models\audi\e-tron\e-tron_50
-
-
 <style>
     .image-gallery {
         display: flex;

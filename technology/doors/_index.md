@@ -1,6 +1,3 @@
-## technology\doors
-
-
 <style>
     .image-gallery {
         display: flex;

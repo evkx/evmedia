@@ -1,6 +1,3 @@
-## technology\sensorsandcameras\lidar
-
-
 <style>
     .image-gallery {
         display: flex;

@@ -1,6 +1,3 @@
-## models\volvo\ex90\ex90_twin_motor_performance
-
-
 <style>
     .image-gallery {
         display: flex;

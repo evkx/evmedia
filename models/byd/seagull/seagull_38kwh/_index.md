@@ -1,6 +1,3 @@
-## models\byd\seagull\seagull_38kwh
-
-
 <style>
     .image-gallery {
         display: flex;

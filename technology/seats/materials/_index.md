@@ -1,6 +1,3 @@
-## technology\seats\materials
-
-
 <style>
     .image-gallery {
         display: flex;

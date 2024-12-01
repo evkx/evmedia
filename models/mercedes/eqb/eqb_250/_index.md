@@ -1,6 +1,3 @@
-## models\mercedes\eqb\eqb_250
-
-
 <style>
     .image-gallery {
         display: flex;

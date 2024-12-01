@@ -1,6 +1,3 @@
-## models\voyah
-
-
 <style>
     .image-gallery {
         display: flex;

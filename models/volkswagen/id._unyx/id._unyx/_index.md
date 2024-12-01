@@ -1,6 +1,3 @@
-## models\volkswagen\id._unyx\id._unyx
-
-
 <style>
     .image-gallery {
         display: flex;

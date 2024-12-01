@@ -1,6 +1,3 @@
-## technology\sensorsandcameras
-
-
 <style>
     .image-gallery {
         display: flex;
