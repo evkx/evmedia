@@ -1,0 +1,101 @@
+<h1>models\mercedes\g\g_580_eq</h1>
+<div class="container text-center">
+<div class="row">
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/models/mercedes/g/g_580_eq/details_1_xst.jpg" class="img-thumbnail" alt="details_1.jpg">
+details_1.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/models/mercedes/g/g_580_eq/details_2_xst.jpg" class="img-thumbnail" alt="details_2.jpg">
+details_2.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/models/mercedes/g/g_580_eq/dynamic_1_xst.jpg" class="img-thumbnail" alt="dynamic_1.jpg">
+dynamic_1.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/models/mercedes/g/g_580_eq/dynamic_2_xst.jpg" class="img-thumbnail" alt="dynamic_2.jpg">
+dynamic_2.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/models/mercedes/g/g_580_eq/dynamic_3_xst.jpg" class="img-thumbnail" alt="dynamic_3.jpg">
+dynamic_3.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/models/mercedes/g/g_580_eq/dynamic_4_xst.jpg" class="img-thumbnail" alt="dynamic_4.jpg">
+dynamic_4.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/models/mercedes/g/g_580_eq/dynamic_5_xst.jpg" class="img-thumbnail" alt="dynamic_5.jpg">
+dynamic_5.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/models/mercedes/g/g_580_eq/exterior_1_xst.jpg" class="img-thumbnail" alt="exterior_1.jpg">
+exterior_1.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/models/mercedes/g/g_580_eq/exterior_2_xst.jpg" class="img-thumbnail" alt="exterior_2.jpg">
+exterior_2.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/models/mercedes/g/g_580_eq/exterior_3_xst.jpg" class="img-thumbnail" alt="exterior_3.jpg">
+exterior_3.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/models/mercedes/g/g_580_eq/exterio_4_xst.jpg" class="img-thumbnail" alt="exterio_4.jpg">
+exterio_4.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/models/mercedes/g/g_580_eq/frontseats_1_xst.jpg" class="img-thumbnail" alt="frontseats_1.jpg">
+frontseats_1.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/models/mercedes/g/g_580_eq/groundclearance_1_xst.jpg" class="img-thumbnail" alt="groundclearance_1.jpg">
+groundclearance_1.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/models/mercedes/g/g_580_eq/headlights_1_xst.jpg" class="img-thumbnail" alt="headlights_1.jpg">
+headlights_1.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/models/mercedes/g/g_580_eq/main_1_xst.jpg" class="img-thumbnail" alt="main_1.jpg">
+main_1.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/models/mercedes/g/g_580_eq/offroad_1_xst.jpg" class="img-thumbnail" alt="offroad_1.jpg">
+offroad_1.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/models/mercedes/g/g_580_eq/offroad_2_xst.jpg" class="img-thumbnail" alt="offroad_2.jpg">
+offroad_2.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/models/mercedes/g/g_580_eq/offroad_3_xst.jpg" class="img-thumbnail" alt="offroad_3.jpg">
+offroad_3.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/models/mercedes/g/g_580_eq/screens_1_xst.jpg" class="img-thumbnail" alt="screens_1.jpg">
+screens_1.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/models/mercedes/g/g_580_eq/screens_2_xst.jpg" class="img-thumbnail" alt="screens_2.jpg">
+screens_2.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/models/mercedes/g/g_580_eq/screens_3_xst.jpg" class="img-thumbnail" alt="screens_3.jpg">
+screens_3.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/models/mercedes/g/g_580_eq/screens_4_xst.jpg" class="img-thumbnail" alt="screens_4.jpg">
+screens_4.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/models/mercedes/g/g_580_eq/secondrowseats_1_xst.jpg" class="img-thumbnail" alt="secondrowseats_1.jpg">
+secondrowseats_1.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/models/mercedes/g/g_580_eq/wheels_1_xst.jpg" class="img-thumbnail" alt="wheels_1.jpg">
+wheels_1.jpg
+</div>
+</div>
+</div>

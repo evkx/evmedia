@@ -1,0 +1,65 @@
+<h1>technology\charging\connectors</h1>
+<div class="container text-center">
+<div class="row">
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/technology/charging/connectors/ccscombo1_1_xst.jpg" class="img-thumbnail" alt="ccscombo1_1.jpg">
+ccscombo1_1.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/technology/charging/connectors/ccscombo1_2_xst.jpg" class="img-thumbnail" alt="ccscombo1_2.jpg">
+ccscombo1_2.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/technology/charging/connectors/ccscombo2_1_xst.jpg" class="img-thumbnail" alt="ccscombo2_1.jpg">
+ccscombo2_1.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/technology/charging/connectors/ccscombo2_2_xst.jpg" class="img-thumbnail" alt="ccscombo2_2.jpg">
+ccscombo2_2.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/technology/charging/connectors/ccscombo2_3_xst.jpg" class="img-thumbnail" alt="ccscombo2_3.jpg">
+ccscombo2_3.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/technology/charging/connectors/chademo_1_xst.jpg" class="img-thumbnail" alt="chademo_1.jpg">
+chademo_1.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/technology/charging/connectors/frontcornerport_1_xst.jpg" class="img-thumbnail" alt="frontcornerport_1.jpg">
+frontcornerport_1.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/technology/charging/connectors/frontport_1_xst.jpg" class="img-thumbnail" alt="frontport_1.jpg">
+frontport_1.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/technology/charging/connectors/frontsideport_1_xst.jpg" class="img-thumbnail" alt="frontsideport_1.jpg">
+frontsideport_1.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/technology/charging/connectors/j1772_1_xst.jpg" class="img-thumbnail" alt="j1772_1.jpg">
+j1772_1.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/technology/charging/connectors/nacs_1_xst.jpg" class="img-thumbnail" alt="nacs_1.jpg">
+nacs_1.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/technology/charging/connectors/nacs_2_xst.jpg" class="img-thumbnail" alt="nacs_2.jpg">
+nacs_2.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/technology/charging/connectors/rearcornerport_1_xst.jpg" class="img-thumbnail" alt="rearcornerport_1.jpg">
+rearcornerport_1.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/technology/charging/connectors/rearsideport_1_xst.jpg" class="img-thumbnail" alt="rearsideport_1.jpg">
+rearsideport_1.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/technology/charging/connectors/type2_1_xst.jpg" class="img-thumbnail" alt="type2_1.jpg">
+type2_1.jpg
+</div>
+</div>
+</div>

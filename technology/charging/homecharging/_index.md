@@ -1,0 +1,29 @@
+<h1>technology\charging\homecharging</h1>
+<div class="container text-center">
+<div class="row">
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/technology/charging/homecharging/audievse_1_xst.jpg" class="img-thumbnail" alt="audievse_1.jpg">
+audievse_1.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/technology/charging/homecharging/audievse_2_xst.jpg" class="img-thumbnail" alt="audievse_2.jpg">
+audievse_2.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/technology/charging/homecharging/audievse_3_xst.jpg" class="img-thumbnail" alt="audievse_3.jpg">
+audievse_3.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/technology/charging/homecharging/burnedsocket_1_xst.jpg" class="img-thumbnail" alt="burnedsocket_1.jpg">
+burnedsocket_1.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/technology/charging/homecharging/nordpool_1_xst.jpg" class="img-thumbnail" alt="nordpool_1.jpg">
+nordpool_1.jpg
+</div>
+<div class="col col-lg-2 col-6">
+<img src="https://media.evkx.net/multimedia/technology/charging/homecharging/porsche100amps_1_xst.jpeg" class="img-thumbnail" alt="porsche100amps_1.jpeg">
+porsche100amps_1.jpeg
+</div>
+</div>
+</div>
