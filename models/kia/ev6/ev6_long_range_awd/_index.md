@@ -29,8 +29,36 @@
 <p>details_7.jpg</p>
 </div>
 <div style="width="20%">
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/dynamic_1_xst.jpg" alt="Image 1" style="width: 200px;">
+<p>dynamic_1.jpg</p>
+</div>
+<div style="width="20%">
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/dynamic_2_xst.jpg" alt="Image 1" style="width: 200px;">
+<p>dynamic_2.jpg</p>
+</div>
+<div style="width="20%">
 <img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/exterior_1_xst.jpg" alt="Image 1" style="width: 200px;">
 <p>exterior_1.jpg</p>
+</div>
+<div style="width="20%">
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/exterior_10_xst.jpg" alt="Image 1" style="width: 200px;">
+<p>exterior_10.jpg</p>
+</div>
+<div style="width="20%">
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/exterior_11_xst.jpg" alt="Image 1" style="width: 200px;">
+<p>exterior_11.jpg</p>
+</div>
+<div style="width="20%">
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/exterior_12_xst.jpg" alt="Image 1" style="width: 200px;">
+<p>exterior_12.jpg</p>
+</div>
+<div style="width="20%">
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/exterior_13_xst.jpg" alt="Image 1" style="width: 200px;">
+<p>exterior_13.jpg</p>
+</div>
+<div style="width="20%">
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/exterior_14_xst.jpg" alt="Image 1" style="width: 200px;">
+<p>exterior_14.jpg</p>
 </div>
 <div style="width="20%">
 <img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/exterior_2_xst.jpg" alt="Image 1" style="width: 200px;">
@@ -59,6 +87,10 @@
 <div style="width="20%">
 <img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/exterior_8_xst.jpg" alt="Image 1" style="width: 200px;">
 <p>exterior_8.jpg</p>
+</div>
+<div style="width="20%">
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/exterior_9_xst.jpg" alt="Image 1" style="width: 200px;">
+<p>exterior_9.jpg</p>
 </div>
 <div style="width="20%">
 <img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/frontseats_1_xst.jpg" alt="Image 1" style="width: 200px;">
@@ -99,6 +131,10 @@
 <div style="width="20%">
 <img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/interior_6_xst.jpg" alt="Image 1" style="width: 200px;">
 <p>interior_6.jpg</p>
+</div>
+<div style="width="20%">
+<img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/interior_7_xst.jpg" alt="Image 1" style="width: 200px;">
+<p>interior_7.jpg</p>
 </div>
 <div style="width="20%">
 <img src="https://media.evkx.net/multimedia/models/kia/ev6/ev6_long_range_awd/main_1_xst.jpg" alt="Image 1" style="width: 200px;">

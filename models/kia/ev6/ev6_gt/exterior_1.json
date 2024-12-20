@@ -1,15 +1,15 @@
 {
-  "FileName": null,
+  "FileName": "exterior_1.jpg",
   "RepoPath": "models\\kia\\ev6\\ev6_gt\\exterior_1.jpg",
   "CloudPath": "models/kia/ev6/ev6_gt/exterior_1.jpg",
   "ExternalUrl": "https://media.evkx.net/multimedia/models/kia/ev6/ev6_gt/exterior_1.jpg",
-  "Width": 1920,
-  "Height": 1080,
+  "Width": 3000,
+  "Height": 2168,
   "HasXSmallThumb": true,
   "HasSmallThumb": true,
   "HasMediumThumb": true,
-  "Hash": "NiHbaBoVWtulgznWE5wMCQ==",
+  "Hash": "nRuWj5Zuui67hm8dIzwQxA==",
   "Tags": null,
-  "Size": 1570338,
+  "Size": 71804084,
   "Description": null
 }

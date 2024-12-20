@@ -25,6 +25,14 @@
 <p>doors_1.jpg</p>
 </div>
 <div style="width="20%">
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/dynamic_1_xst.jpg" alt="Image 1" style="width: 200px;">
+<p>dynamic_1.jpg</p>
+</div>
+<div style="width="20%">
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/dynamic_2_xst.jpg" alt="Image 1" style="width: 200px;">
+<p>dynamic_2.jpg</p>
+</div>
+<div style="width="20%">
 <img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_1_xst.jpg" alt="Image 1" style="width: 200px;">
 <p>exterior_1.jpg</p>
 </div>
@@ -61,8 +69,20 @@
 <p>exterior_17.jpg</p>
 </div>
 <div style="width="20%">
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_18_xst.jpg" alt="Image 1" style="width: 200px;">
+<p>exterior_18.jpg</p>
+</div>
+<div style="width="20%">
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_19_xst.jpg" alt="Image 1" style="width: 200px;">
+<p>exterior_19.jpg</p>
+</div>
+<div style="width="20%">
 <img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_2_xst.jpg" alt="Image 1" style="width: 200px;">
 <p>exterior_2.jpg</p>
+</div>
+<div style="width="20%">
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_20_xst.jpg" alt="Image 1" style="width: 200px;">
+<p>exterior_20.jpg</p>
 </div>
 <div style="width="20%">
 <img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/exterior_3_xst.jpg" alt="Image 1" style="width: 200px;">
@@ -101,6 +121,10 @@
 <p>frontseats_1.jpg</p>
 </div>
 <div style="width="20%">
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/frontseats_2_xst.jpg" alt="Image 1" style="width: 200px;">
+<p>frontseats_2.jpg</p>
+</div>
+<div style="width="20%">
 <img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/frunk_1_xst.jpg" alt="Image 1" style="width: 200px;">
 <p>frunk_1.jpg</p>
 </div>
@@ -115,6 +139,10 @@
 <div style="width="20%">
 <img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/interior_1_xst.jpg" alt="Image 1" style="width: 200px;">
 <p>interior_1.jpg</p>
+</div>
+<div style="width="20%">
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/interior_10_xst.jpg" alt="Image 1" style="width: 200px;">
+<p>interior_10.jpg</p>
 </div>
 <div style="width="20%">
 <img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/interior_2_xst.jpg" alt="Image 1" style="width: 200px;">
@@ -207,6 +235,10 @@
 <div style="width="20%">
 <img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/secondrowseats_5_xst.jpg" alt="Image 1" style="width: 200px;">
 <p>secondrowseats_5.jpg</p>
+</div>
+<div style="width="20%">
+<img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/secondrowseats_6_xst.jpg" alt="Image 1" style="width: 200px;">
+<p>secondrowseats_6.jpg</p>
 </div>
 <div style="width="20%">
 <img src="https://media.evkx.net/multimedia/models/zeekr/7x/7x_standard_range_rwd/storage_1_xst.jpg" alt="Image 1" style="width: 200px;">
