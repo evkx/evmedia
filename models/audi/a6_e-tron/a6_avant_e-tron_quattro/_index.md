@@ -29,6 +29,10 @@
 <p>exterior_7.jpg</p>
 </div>
 <div style="width="20%">
+<img src="https://media.evkx.net/multimedia/models/audi/a6_e-tron/a6_avant_e-tron_quattro/exterior_8_xst.jpg" alt="Image 1" style="width: 200px;">
+<p>exterior_8.jpg</p>
+</div>
+<div style="width="20%">
 <img src="https://media.evkx.net/multimedia/models/audi/a6_e-tron/a6_avant_e-tron_quattro/frontseats_1_xst.jpg" alt="Image 1" style="width: 200px;">
 <p>frontseats_1.jpg</p>
 </div>
